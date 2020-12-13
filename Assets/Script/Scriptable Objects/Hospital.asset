@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22962d33666d3a340a64a2f4100b2e0a, type: 3}
+  m_Name: Hospital
+  m_EditorClassIdentifier: 
+  objectName: Vaccine
+  sprite: {fileID: 21300000, guid: 3a68b4a9d9e1c8f4da48bb9635eb6ed8, type: 3}
+  location: "\uBCD1\uC6D0"
+  content: "\uBC31\uC2E0 \uCCB4\uC6B0\uAE30"
+  min: 0
+  max: 1
+  taskPoints: 6.25
+  isItUsable: 1
+  objectType: 2

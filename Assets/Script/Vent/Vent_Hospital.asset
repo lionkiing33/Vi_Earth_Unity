@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5818759c73b00654a8e4802190a26221, type: 3}
+  m_Name: Vent_Hospital
+  m_EditorClassIdentifier: 
+  objectName: Vent_Hospital
+  sprite: {fileID: 21300000, guid: ec042e91dace69b43a2bd0b9227634a7, type: 3}
+  location: {x: -44, y: -9, z: 0}
+  objectType: 2

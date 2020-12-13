@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5b3f3799455e3354baf31887b6deee21
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - taskPoints: {instanceID: 0}
+  - character: {instanceID: 0}
+  - meterImage: {instanceID: 0}
+  - tpText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1133101671099035958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5957605081678240351}
+  - component: {fileID: 1021041866434110232}
+  m_Layer: 0
+  m_Name: SocketTest
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5957605081678240351
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133101671099035958}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1021041866434110232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1133101671099035958}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6d535fadb325a488f1419c10d7d4eb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Im_win: {fileID: 0}
+  user_type: 0
+  vent: {fileID: 0}
+  kill: {fileID: 0}
+  sabotage: {fileID: 0}
+  report: {fileID: 0}
+  interact: {fileID: 0}
+  image_num: 0
+  killed_image_num: 0
+  x1: 0
+  y1: 0
+  x2: 0
+  y2: 0
+  x3: 0
+  y3: 0
+  x4: 0
+  y4: 0
+  x5: 0
+  y5: 0
+  killed_x: 0
+  killed_y: 0
+  MyID: 
+  killed_check: 0
+  kill_check: 0
+  graveStonePrefab: {fileID: 8025846963421329671, guid: b184f7f44085ac4438a7808722b7dba4, type: 3}
+  killBtn: {fileID: 0}
+  deadPlayer:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  cam: {fileID: 0}
+  index: 0
+  sabo_on: 0
+  meet_on: 0
+  isItGameEnd: 0
+  playerImageName:
+  - 
+  - 
+  - 
+  - 
+  - 
+  playerName:
+  - 
+  - 
+  - 
+  - 
+  - 
+  playerMeetingId: 
+  EmergencyMeeting: {fileID: 0}

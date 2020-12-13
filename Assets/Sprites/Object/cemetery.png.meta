@@ -1,0 +1,5906 @@
+fileFormatVersion: 2
+guid: 7098a7164d409cb4088896290f418e35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8863848211298307634
+    second: cemetery_0
+  - first:
+      213: -5269335129783770923
+    second: cemetery_1
+  - first:
+      213: -9183215151302520169
+    second: cemetery_2
+  - first:
+      213: 8505199968899577748
+    second: cemetery_3
+  - first:
+      213: 1912570637363450459
+    second: cemetery_4
+  - first:
+      213: 6732756608298741471
+    second: cemetery_5
+  - first:
+      213: 2721111795862962421
+    second: cemetery_6
+  - first:
+      213: 1335482382091068466
+    second: cemetery_7
+  - first:
+      213: 2171597604119719876
+    second: cemetery_8
+  - first:
+      213: 7765797358202422101
+    second: cemetery_9
+  - first:
+      213: -5210823538194530077
+    second: cemetery_10
+  - first:
+      213: 3076558034514801765
+    second: cemetery_11
+  - first:
+      213: -5904632834374592739
+    second: cemetery_12
+  - first:
+      213: -6432566415400546209
+    second: cemetery_13
+  - first:
+      213: 5924387123696572175
+    second: cemetery_14
+  - first:
+      213: 8212395722431347401
+    second: cemetery_15
+  - first:
+      213: 6370955760599356283
+    second: cemetery_16
+  - first:
+      213: 384462421382920007
+    second: cemetery_17
+  - first:
+      213: 1632258803052741810
+    second: cemetery_18
+  - first:
+      213: -2361334285671583861
+    second: cemetery_19
+  - first:
+      213: 6680156836054866870
+    second: cemetery_20
+  - first:
+      213: 7110530885896165294
+    second: cemetery_21
+  - first:
+      213: -7008774846817118955
+    second: cemetery_22
+  - first:
+      213: 1355174383842151890
+    second: cemetery_23
+  - first:
+      213: 2027751681658859169
+    second: cemetery_24
+  - first:
+      213: -3939054734451561224
+    second: cemetery_25
+  - first:
+      213: 6877649161638311800
+    second: cemetery_26
+  - first:
+      213: 3046687080235947592
+    second: cemetery_27
+  - first:
+      213: -8131106461337776255
+    second: cemetery_28
+  - first:
+      213: -8280209527340253082
+    second: cemetery_29
+  - first:
+      213: 3275794606510066957
+    second: cemetery_30
+  - first:
+      213: -571978703063691186
+    second: cemetery_31
+  - first:
+      213: 5658961350578540387
+    second: cemetery_32
+  - first:
+      213: -9067835290233700820
+    second: cemetery_33
+  - first:
+      213: 1529684344361498550
+    second: cemetery_34
+  - first:
+      213: -7145163422712830599
+    second: cemetery_35
+  - first:
+      213: -6351910160644219678
+    second: cemetery_36
+  - first:
+      213: -1180443090252746773
+    second: cemetery_37
+  - first:
+      213: 7850434591115197222
+    second: cemetery_38
+  - first:
+      213: 631881350845150369
+    second: cemetery_39
+  - first:
+      213: 8503185456388055375
+    second: cemetery_40
+  - first:
+      213: 607829300501543857
+    second: cemetery_41
+  - first:
+      213: -1828501968327559106
+    second: cemetery_42
+  - first:
+      213: 5773768451375906429
+    second: cemetery_43
+  - first:
+      213: -530566329771288587
+    second: cemetery_44
+  - first:
+      213: 8528162821575072638
+    second: cemetery_45
+  - first:
+      213: -6057336153100013883
+    second: cemetery_46
+  - first:
+      213: -8714598383675157293
+    second: cemetery_47
+  - first:
+      213: 5880616813862256558
+    second: cemetery_48
+  - first:
+      213: -8890520007777747981
+    second: cemetery_49
+  - first:
+      213: -9092801634912241717
+    second: cemetery_50
+  - first:
+      213: -194092739610110633
+    second: cemetery_51
+  - first:
+      213: -2418722186324308350
+    second: cemetery_52
+  - first:
+      213: 209706635738817373
+    second: cemetery_53
+  - first:
+      213: -6227240545656932571
+    second: cemetery_54
+  - first:
+      213: 8666348848505756735
+    second: cemetery_55
+  - first:
+      213: 3347623239775987818
+    second: cemetery_56
+  - first:
+      213: -4883716309434464892
+    second: cemetery_57
+  - first:
+      213: -9181441940630459953
+    second: cemetery_58
+  - first:
+      213: 3224984788983055175
+    second: cemetery_59
+  - first:
+      213: 2655459083426743600
+    second: cemetery_60
+  - first:
+      213: -7583144582633638030
+    second: cemetery_61
+  - first:
+      213: -3350171776076171143
+    second: cemetery_62
+  - first:
+      213: 1788983862025326708
+    second: cemetery_63
+  - first:
+      213: 2926989200688367098
+    second: cemetery_64
+  - first:
+      213: -3498932085514117602
+    second: cemetery_65
+  - first:
+      213: 6981519720255950834
+    second: cemetery_66
+  - first:
+      213: 6240037220459452489
+    second: cemetery_67
+  - first:
+      213: 4655302813626943350
+    second: cemetery_68
+  - first:
+      213: 6861014600963181837
+    second: cemetery_69
+  - first:
+      213: -6756494834819648531
+    second: cemetery_70
+  - first:
+      213: 8978876022866075909
+    second: cemetery_71
+  - first:
+      213: -8053665826990782600
+    second: cemetery_72
+  - first:
+      213: -4989641822966647441
+    second: cemetery_73
+  - first:
+      213: -9069469494337340084
+    second: cemetery_74
+  - first:
+      213: 179214057316717732
+    second: cemetery_75
+  - first:
+      213: -4119871770663075175
+    second: cemetery_76
+  - first:
+      213: 5722687673404285960
+    second: cemetery_77
+  - first:
+      213: -7991442633865266132
+    second: cemetery_78
+  - first:
+      213: 4877580065878304247
+    second: cemetery_79
+  - first:
+      213: -6085374770729786029
+    second: cemetery_80
+  - first:
+      213: -1216822626695111727
+    second: cemetery_81
+  - first:
+      213: -2981035835124599040
+    second: cemetery_82
+  - first:
+      213: 8176928223367865167
+    second: cemetery_83
+  - first:
+      213: 2541509901446063451
+    second: cemetery_84
+  - first:
+      213: -100861526134066615
+    second: cemetery_85
+  - first:
+      213: -4085006977107497879
+    second: cemetery_86
+  - first:
+      213: -5800877517079808223
+    second: cemetery_87
+  - first:
+      213: 8031270799157412987
+    second: cemetery_88
+  - first:
+      213: 7995220493217404125
+    second: cemetery_89
+  - first:
+      213: 2282431683981996323
+    second: cemetery_90
+  - first:
+      213: -5847568625736825279
+    second: cemetery_91
+  - first:
+      213: -2305922443314937374
+    second: cemetery_92
+  - first:
+      213: -52859863599905313
+    second: cemetery_93
+  - first:
+      213: -1207498085106244483
+    second: cemetery_94
+  - first:
+      213: -1416131984354386895
+    second: cemetery_95
+  - first:
+      213: -578211427105505271
+    second: cemetery_96
+  - first:
+      213: 7301675991752646147
+    second: cemetery_97
+  - first:
+      213: -4797258567026092511
+    second: cemetery_98
+  - first:
+      213: 9150046921336069224
+    second: cemetery_99
+  - first:
+      213: -3020087075907406934
+    second: cemetery_100
+  - first:
+      213: 339887891239125688
+    second: cemetery_101
+  - first:
+      213: -484114554031155474
+    second: cemetery_102
+  - first:
+      213: 3541210831195294951
+    second: cemetery_103
+  - first:
+      213: 6676167713679966150
+    second: cemetery_104
+  - first:
+      213: 5614968833905650234
+    second: cemetery_105
+  - first:
+      213: -3958655472222968961
+    second: cemetery_106
+  - first:
+      213: -971507346292277195
+    second: cemetery_107
+  - first:
+      213: -2194026146181809693
+    second: cemetery_108
+  - first:
+      213: 6216879600115835331
+    second: cemetery_109
+  - first:
+      213: -6528197322257383783
+    second: cemetery_110
+  - first:
+      213: -170296145366136292
+    second: cemetery_111
+  - first:
+      213: -9173756986639299280
+    second: cemetery_112
+  - first:
+      213: 8171260835662700526
+    second: cemetery_113
+  - first:
+      213: -2683584103380436764
+    second: cemetery_114
+  - first:
+      213: -2439500737457324798
+    second: cemetery_115
+  - first:
+      213: 8392451495954175228
+    second: cemetery_116
+  - first:
+      213: 2589292697847812384
+    second: cemetery_117
+  - first:
+      213: 8913917433691687051
+    second: cemetery_118
+  - first:
+      213: -6417519811783930994
+    second: cemetery_119
+  - first:
+      213: 2465356464591670395
+    second: cemetery_120
+  - first:
+      213: -7833244843497067654
+    second: cemetery_121
+  - first:
+      213: 901575984487634415
+    second: cemetery_122
+  - first:
+      213: 9217057548517102775
+    second: cemetery_123
+  - first:
+      213: -2674174550513703791
+    second: cemetery_124
+  - first:
+      213: -3290758818815189685
+    second: cemetery_125
+  - first:
+      213: 8419970423095168142
+    second: cemetery_126
+  - first:
+      213: -1367890922176128504
+    second: cemetery_127
+  - first:
+      213: 4768628230850656239
+    second: cemetery_128
+  - first:
+      213: -8117160640743372433
+    second: cemetery_129
+  - first:
+      213: -491005167110446786
+    second: cemetery_130
+  - first:
+      213: 3372437476812162508
+    second: cemetery_131
+  - first:
+      213: 2595852859364469106
+    second: cemetery_132
+  - first:
+      213: -201292416007629443
+    second: cemetery_133
+  - first:
+      213: 2981780916900278869
+    second: cemetery_134
+  - first:
+      213: -8605605968241536770
+    second: cemetery_135
+  - first:
+      213: 3196987761927660188
+    second: cemetery_136
+  - first:
+      213: -7403692260770921044
+    second: cemetery_137
+  - first:
+      213: -8437754657617681927
+    second: cemetery_138
+  - first:
+      213: -1919960057161272423
+    second: cemetery_139
+  - first:
+      213: 9140983610102041334
+    second: cemetery_140
+  - first:
+      213: 1276262251592589157
+    second: cemetery_141
+  - first:
+      213: 2686533271927661743
+    second: cemetery_142
+  - first:
+      213: 9109168136694934884
+    second: cemetery_143
+  - first:
+      213: -6140141152368057447
+    second: cemetery_144
+  - first:
+      213: -3199464871101306223
+    second: cemetery_145
+  - first:
+      213: -2800472828514147534
+    second: cemetery_146
+  - first:
+      213: -3948370026116264483
+    second: cemetery_147
+  - first:
+      213: -6414755954972930734
+    second: cemetery_148
+  - first:
+      213: 5865336382693430336
+    second: cemetery_149
+  - first:
+      213: 7528413463870929024
+    second: cemetery_150
+  - first:
+      213: 183921516153970437
+    second: cemetery_151
+  - first:
+      213: -1476317167613655717
+    second: cemetery_152
+  - first:
+      213: -6998695666758353643
+    second: cemetery_153
+  - first:
+      213: 3950242364810412776
+    second: cemetery_154
+  - first:
+      213: -2055889891801615572
+    second: cemetery_155
+  - first:
+      213: 2545110089673967272
+    second: cemetery_156
+  - first:
+      213: 8141031532397401614
+    second: cemetery_157
+  - first:
+      213: 4062748739609067224
+    second: cemetery_158
+  - first:
+      213: -8606072948769888892
+    second: cemetery_159
+  - first:
+      213: -7886634088517413853
+    second: cemetery_160
+  - first:
+      213: -6712026744739165380
+    second: cemetery_161
+  - first:
+      213: -6105213720398400907
+    second: cemetery_162
+  - first:
+      213: 2034852358702906431
+    second: cemetery_163
+  - first:
+      213: 2968413268693849219
+    second: cemetery_164
+  - first:
+      213: 7853336111465939313
+    second: cemetery_165
+  - first:
+      213: 6456736201778409189
+    second: cemetery_166
+  - first:
+      213: -2630857966502271941
+    second: cemetery_167
+  - first:
+      213: -9172449156377471978
+    second: cemetery_168
+  - first:
+      213: 8837063019988280385
+    second: cemetery_169
+  - first:
+      213: -5296204330066375363
+    second: cemetery_170
+  - first:
+      213: 565395198818805257
+    second: cemetery_171
+  - first:
+      213: -1312475251716421251
+    second: cemetery_172
+  - first:
+      213: 8343672141115635117
+    second: cemetery_173
+  - first:
+      213: -6353046329656189387
+    second: cemetery_174
+  - first:
+      213: 46050989582254671
+    second: cemetery_175
+  - first:
+      213: -69591051794734262
+    second: cemetery_176
+  - first:
+      213: 134304736994571704
+    second: cemetery_177
+  - first:
+      213: 2612402261004494835
+    second: cemetery_178
+  - first:
+      213: -6743462795221015485
+    second: cemetery_179
+  - first:
+      213: 3612593432195216301
+    second: cemetery_180
+  - first:
+      213: 2751080740883465819
+    second: cemetery_181
+  - first:
+      213: -4437486756309714091
+    second: cemetery_182
+  - first:
+      213: 4005177032678343022
+    second: cemetery_183
+  - first:
+      213: 4640677773904149363
+    second: cemetery_184
+  - first:
+      213: -1331508956038879931
+    second: cemetery_185
+  - first:
+      213: -8569659774361068704
+    second: cemetery_186
+  - first:
+      213: -1758029806730710014
+    second: cemetery_187
+  - first:
+      213: 5194100822573563004
+    second: cemetery_188
+  - first:
+      213: -2124199524087457812
+    second: cemetery_189
+  - first:
+      213: -3145553836970769470
+    second: cemetery_190
+  - first:
+      213: 198557038081982848
+    second: cemetery_191
+  - first:
+      213: 7288576460792372979
+    second: cemetery_192
+  - first:
+      213: 1171063252991755842
+    second: cemetery_193
+  - first:
+      213: -1765336446733779537
+    second: cemetery_194
+  - first:
+      213: -5436035307029379670
+    second: cemetery_195
+  - first:
+      213: -8993755193670283639
+    second: cemetery_196
+  - first:
+      213: 3296599800810048445
+    second: cemetery_197
+  - first:
+      213: -6205220815192537682
+    second: cemetery_198
+  - first:
+      213: -3399492708144561682
+    second: cemetery_199
+  - first:
+      213: -4217207351884284029
+    second: cemetery_200
+  - first:
+      213: -1895141721225118155
+    second: cemetery_201
+  - first:
+      213: 4205219544224032551
+    second: cemetery_202
+  - first:
+      213: -7808148354818323693
+    second: cemetery_203
+  - first:
+      213: -6053646872015226694
+    second: cemetery_204
+  - first:
+      213: 601070833515619747
+    second: cemetery_205
+  - first:
+      213: 2428634160959673909
+    second: cemetery_206
+  - first:
+      213: 8301373342612105775
+    second: cemetery_207
+  - first:
+      213: -4674235173683600463
+    second: cemetery_208
+  - first:
+      213: -1592551153434644376
+    second: cemetery_209
+  - first:
+      213: 1991651958147480302
+    second: cemetery_210
+  - first:
+      213: -4188985407704479608
+    second: cemetery_211
+  - first:
+      213: -5198794375940276421
+    second: cemetery_212
+  - first:
+      213: 8517774548006980712
+    second: cemetery_213
+  - first:
+      213: -3298782703064126901
+    second: cemetery_214
+  - first:
+      213: 2114973052850940388
+    second: cemetery_215
+  - first:
+      213: 2260130347969673709
+    second: cemetery_216
+  - first:
+      213: -6547697532118736108
+    second: cemetery_217
+  - first:
+      213: 7186445083616028865
+    second: cemetery_218
+  - first:
+      213: 5601696875738148681
+    second: cemetery_219
+  - first:
+      213: -8232954699568880119
+    second: cemetery_220
+  - first:
+      213: -1881518224021487750
+    second: cemetery_221
+  - first:
+      213: -6924442663696296533
+    second: cemetery_222
+  - first:
+      213: -4239768374233705973
+    second: cemetery_223
+  - first:
+      213: -3191551556748412622
+    second: cemetery_224
+  - first:
+      213: -3844031968062633531
+    second: cemetery_225
+  - first:
+      213: -8488545246562727500
+    second: cemetery_226
+  - first:
+      213: 1278137651106170440
+    second: cemetery_227
+  - first:
+      213: 8990860461925708955
+    second: cemetery_228
+  - first:
+      213: 363121968696167617
+    second: cemetery_229
+  - first:
+      213: -3452718189727078711
+    second: cemetery_230
+  - first:
+      213: 6063237854228590926
+    second: cemetery_231
+  - first:
+      213: -8433973956899926574
+    second: cemetery_232
+  - first:
+      213: -3561637412981097922
+    second: cemetery_233
+  - first:
+      213: -560589477053763243
+    second: cemetery_234
+  - first:
+      213: -5543361192286193746
+    second: cemetery_235
+  - first:
+      213: 4068013926953945209
+    second: cemetery_236
+  - first:
+      213: 5069942117572098490
+    second: cemetery_237
+  - first:
+      213: -7289827463631565906
+    second: cemetery_238
+  - first:
+      213: -9148209588715729450
+    second: cemetery_239
+  - first:
+      213: 7002674677223029506
+    second: cemetery_240
+  - first:
+      213: -3617102126126776254
+    second: cemetery_241
+  - first:
+      213: 2303501199876435705
+    second: cemetery_242
+  - first:
+      213: -782695480893046179
+    second: cemetery_243
+  - first:
+      213: -2207338569571700086
+    second: cemetery_244
+  - first:
+      213: -2162622112430191474
+    second: cemetery_245
+  - first:
+      213: -1822249573940949212
+    second: cemetery_246
+  - first:
+      213: -942473713851129423
+    second: cemetery_247
+  - first:
+      213: 581218593444497516
+    second: cemetery_248
+  - first:
+      213: 5891242558650319968
+    second: cemetery_249
+  - first:
+      213: -6545969194274007253
+    second: cemetery_250
+  - first:
+      213: 3089900431839417826
+    second: cemetery_251
+  - first:
+      213: -2768027721830007497
+    second: cemetery_252
+  - first:
+      213: -7238625411558466891
+    second: cemetery_253
+  - first:
+      213: -6018408399103067371
+    second: cemetery_254
+  - first:
+      213: 2374588276929360301
+    second: cemetery_255
+  - first:
+      213: -1443421562285474260
+    second: cemetery_256
+  - first:
+      213: 3921361756471496206
+    second: cemetery_257
+  - first:
+      213: 1726299129104059662
+    second: cemetery_258
+  - first:
+      213: -2360827539822233363
+    second: cemetery_259
+  - first:
+      213: -2148800825603427582
+    second: cemetery_260
+  - first:
+      213: 4522856228321036596
+    second: cemetery_261
+  - first:
+      213: 5766236541886446820
+    second: cemetery_262
+  - first:
+      213: 7250535272633950914
+    second: cemetery_263
+  - first:
+      213: -9053752912737633787
+    second: cemetery_264
+  - first:
+      213: -7943801797036661439
+    second: cemetery_265
+  - first:
+      213: 4164467265353167499
+    second: cemetery_266
+  - first:
+      213: 5470844098324273161
+    second: cemetery_267
+  - first:
+      213: -2731070751054956390
+    second: cemetery_268
+  - first:
+      213: 8639323060958471369
+    second: cemetery_269
+  - first:
+      213: -6752428586638064382
+    second: cemetery_270
+  - first:
+      213: -1406590665649279803
+    second: cemetery_271
+  - first:
+      213: 874298757912688010
+    second: cemetery_272
+  - first:
+      213: -8031282650280107384
+    second: cemetery_273
+  - first:
+      213: 909769298875965279
+    second: cemetery_274
+  - first:
+      213: -2693052768500606813
+    second: cemetery_275
+  - first:
+      213: -1722637548833900757
+    second: cemetery_276
+  - first:
+      213: -7915532850870455928
+    second: cemetery_277
+  - first:
+      213: 1528289858734695629
+    second: cemetery_278
+  - first:
+      213: -7626027584834384592
+    second: cemetery_279
+  - first:
+      213: 3683297545123825275
+    second: cemetery_280
+  - first:
+      213: -1123801719333942840
+    second: cemetery_281
+  - first:
+      213: 2998110128729645193
+    second: cemetery_282
+  - first:
+      213: 2777481834585650725
+    second: cemetery_283
+  - first:
+      213: 7062285717389919929
+    second: cemetery_284
+  - first:
+      213: 651367318576266432
+    second: cemetery_285
+  - first:
+      213: -6330307559400847489
+    second: cemetery_286
+  - first:
+      213: 5450704150238138625
+    second: cemetery_287
+  - first:
+      213: -2786671384660287837
+    second: cemetery_288
+  - first:
+      213: 4736526865809029074
+    second: cemetery_289
+  - first:
+      213: -13473227767582313
+    second: cemetery_290
+  - first:
+      213: -6283791854001039916
+    second: cemetery_291
+  - first:
+      213: 5865567746108658117
+    second: cemetery_292
+  - first:
+      213: -5929975745084454567
+    second: cemetery_293
+  - first:
+      213: -2436728815771824715
+    second: cemetery_294
+  - first:
+      213: -8335879584293361400
+    second: cemetery_295
+  - first:
+      213: 2875334235437228598
+    second: cemetery_296
+  - first:
+      213: 1101480595418851351
+    second: cemetery_297
+  - first:
+      213: 3201276536919439281
+    second: cemetery_298
+  - first:
+      213: 6129843422728026527
+    second: cemetery_299
+  - first:
+      213: 7947161560993108713
+    second: cemetery_300
+  - first:
+      213: 894130911803077234
+    second: cemetery_301
+  - first:
+      213: 2434272529519859218
+    second: cemetery_302
+  - first:
+      213: 2422489874822735648
+    second: cemetery_303
+  - first:
+      213: -7648302033602456846
+    second: cemetery_304
+  - first:
+      213: -286016145888814350
+    second: cemetery_305
+  - first:
+      213: 5185964748772304103
+    second: cemetery_306
+  - first:
+      213: -552921610268336840
+    second: cemetery_307
+  - first:
+      213: -6206465742686352726
+    second: cemetery_308
+  - first:
+      213: -434148207486734983
+    second: cemetery_309
+  - first:
+      213: 1335598572435980249
+    second: cemetery_310
+  - first:
+      213: -1396033226312493842
+    second: cemetery_311
+  - first:
+      213: 6371099839061156713
+    second: cemetery_312
+  - first:
+      213: -4128556944731687087
+    second: cemetery_313
+  - first:
+      213: 8366566060513647786
+    second: cemetery_314
+  - first:
+      213: -1772010578288785006
+    second: cemetery_315
+  - first:
+      213: 1933636609430694843
+    second: cemetery_316
+  - first:
+      213: -8884584826803385924
+    second: cemetery_317
+  - first:
+      213: 5630314552068819745
+    second: cemetery_318
+  - first:
+      213: 5649305213272116716
+    second: cemetery_319
+  - first:
+      213: 6062350716828054298
+    second: cemetery_320
+  - first:
+      213: 2749117081783493971
+    second: cemetery_321
+  - first:
+      213: -619069609892858642
+    second: cemetery_322
+  - first:
+      213: 3925213030203532575
+    second: cemetery_323
+  - first:
+      213: -8272130506075684218
+    second: cemetery_324
+  - first:
+      213: -2632831240621835069
+    second: cemetery_325
+  - first:
+      213: -2994867523895815778
+    second: cemetery_326
+  - first:
+      213: 3480210337533109465
+    second: cemetery_327
+  - first:
+      213: -8624864921957711847
+    second: cemetery_328
+  - first:
+      213: -6996732104863097492
+    second: cemetery_329
+  - first:
+      213: 1870291518513701743
+    second: cemetery_330
+  - first:
+      213: -7340572079133318429
+    second: cemetery_331
+  - first:
+      213: 5516254459109984834
+    second: cemetery_332
+  - first:
+      213: 8369123442928230036
+    second: cemetery_333
+  - first:
+      213: 661198282860066236
+    second: cemetery_334
+  - first:
+      213: 4029575655397367975
+    second: cemetery_335
+  - first:
+      213: -3224351615454555153
+    second: cemetery_336
+  - first:
+      213: 2130661983349343206
+    second: cemetery_337
+  - first:
+      213: 4139859191488288924
+    second: cemetery_338
+  - first:
+      213: -4835302356464442981
+    second: cemetery_339
+  - first:
+      213: 1258978185047227285
+    second: cemetery_340
+  - first:
+      213: -4900281579272362644
+    second: cemetery_341
+  - first:
+      213: -361656227586837360
+    second: cemetery_342
+  - first:
+      213: -8679876258871244023
+    second: cemetery_343
+  - first:
+      213: -6772957891261391092
+    second: cemetery_344
+  - first:
+      213: 4188123183415815912
+    second: cemetery_345
+  - first:
+      213: 5535583184788478419
+    second: cemetery_346
+  - first:
+      213: 6959979002287810608
+    second: cemetery_347
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cemetery_0
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 522
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30.5, y: -52}
+        - {x: -26.5, y: -51}
+        - {x: -24.5, y: -49}
+        - {x: -22.5, y: -49}
+        - {x: -18.5, y: -46}
+        - {x: -15.5, y: -46}
+        - {x: 7.5, y: -58}
+        - {x: 9.5, y: -58}
+        - {x: 11.5, y: -56}
+        - {x: 11.5, y: -54}
+        - {x: 9.5, y: -52}
+        - {x: 7.5, y: -52}
+        - {x: 6.5, y: -50}
+        - {x: 1.5, y: -48}
+        - {x: -1.5, y: -46}
+        - {x: -3.5, y: -46}
+        - {x: -4.5, y: -45}
+        - {x: -1.5, y: -45}
+        - {x: 0.5, y: -43}
+        - {x: 3.5, y: -43}
+        - {x: 4.5, y: -42}
+        - {x: 6.5, y: -42}
+        - {x: 11.5, y: -40}
+        - {x: 11.5, y: -37}
+        - {x: 12.5, y: -37}
+        - {x: 13.5, y: -36}
+        - {x: 15.5, y: -37}
+        - {x: 16.5, y: -36}
+        - {x: 20.5, y: -35}
+        - {x: 27.5, y: -39}
+        - {x: 29.5, y: -39}
+        - {x: 30.5, y: -41}
+        - {x: 37.5, y: -44}
+        - {x: 39.5, y: -44}
+        - {x: 43.5, y: -46}
+        - {x: 44.5, y: -45}
+        - {x: 46.5, y: -45}
+        - {x: 46.5, y: -37}
+        - {x: 41.5, y: -38}
+        - {x: 37.5, y: -36}
+        - {x: 41.5, y: -34}
+        - {x: 40.5, y: -31}
+        - {x: 36.5, y: -31}
+        - {x: 34.5, y: -34}
+        - {x: 29.5, y: -32}
+        - {x: 30.5, y: -29}
+        - {x: 29.5, y: -28}
+        - {x: 30.5, y: -28}
+        - {x: 33.5, y: -26}
+        - {x: 37.5, y: -26}
+        - {x: 39.5, y: -25}
+        - {x: 40.5, y: -23}
+        - {x: 43.5, y: -21}
+        - {x: 46.5, y: -21}
+        - {x: 46.5, y: -16}
+        - {x: 41.5, y: -17}
+        - {x: 37.5, y: -19}
+        - {x: 36.5, y: -21}
+        - {x: 33.5, y: -21}
+        - {x: 23.5, y: -27}
+        - {x: 22.5, y: -26}
+        - {x: 19.5, y: -27}
+        - {x: 17.5, y: -26}
+        - {x: 19.5, y: -24}
+        - {x: 19.5, y: -23}
+        - {x: 17.5, y: -21}
+        - {x: 13.5, y: -21}
+        - {x: 11.5, y: -23}
+        - {x: 7.5, y: -21}
+        - {x: 11.5, y: -18}
+        - {x: 10.5, y: -15}
+        - {x: 6.5, y: -15}
+        - {x: 5.5, y: -16}
+        - {x: 3.5, y: -16}
+        - {x: 1.5, y: -18}
+        - {x: -2.5, y: -16}
+        - {x: -4.5, y: -18}
+        - {x: -4.5, y: 15}
+        - {x: -2.5, y: 13}
+        - {x: -0.5, y: 13}
+        - {x: 3.5, y: 10}
+        - {x: 5.5, y: 10}
+        - {x: 7.5, y: 8}
+        - {x: 8.5, y: 8}
+        - {x: 11.5, y: 11}
+        - {x: 11.5, y: 12}
+        - {x: 8.5, y: 15}
+        - {x: 6.5, y: 15}
+        - {x: 9.5, y: 15}
+        - {x: 11.5, y: 17}
+        - {x: 11.5, y: 18}
+        - {x: 8.5, y: 21}
+        - {x: 6.5, y: 21}
+        - {x: 3.5, y: 24}
+        - {x: 0.5, y: 24}
+        - {x: -1.5, y: 26}
+        - {x: -3.5, y: 26}
+        - {x: -4.5, y: 27}
+        - {x: -3.5, y: 28}
+        - {x: -1.5, y: 28}
+        - {x: -0.5, y: 29}
+        - {x: -0.5, y: 27}
+        - {x: 2.5, y: 24}
+        - {x: 4.5, y: 24}
+        - {x: 7.5, y: 27}
+        - {x: 7.5, y: 29}
+        - {x: 6.5, y: 30}
+        - {x: 8.5, y: 33}
+        - {x: 11.5, y: 36}
+        - {x: 11.5, y: 37}
+        - {x: 9.5, y: 39}
+        - {x: 9.5, y: 40}
+        - {x: 11.5, y: 42}
+        - {x: 11.5, y: 43}
+        - {x: 8.5, y: 46}
+        - {x: 7.5, y: 46}
+        - {x: -4.5, y: 40}
+        - {x: -4.5, y: 41}
+        - {x: -2.5, y: 43}
+        - {x: -2.5, y: 44}
+        - {x: -3.5, y: 45}
+        - {x: -2.5, y: 48}
+        - {x: -5.5, y: 51}
+        - {x: -8.5, y: 51}
+        - {x: -10.5, y: 49}
+        - {x: -10.5, y: 46}
+        - {x: -9.5, y: 45}
+        - {x: -10.5, y: 44}
+        - {x: -9.5, y: 39}
+        - {x: -11.5, y: 36}
+        - {x: -14.5, y: 41}
+        - {x: -14.5, y: 45}
+        - {x: -15.5, y: 47}
+        - {x: -14.5, y: 48}
+        - {x: -14.5, y: 50}
+        - {x: -16.5, y: 52}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 48}
+        - {x: -18.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 42}
+        - {x: -22.5, y: 38}
+        - {x: -22.5, y: 36}
+        - {x: -23.5, y: 37}
+        - {x: -24.5, y: 41}
+        - {x: -23.5, y: 42}
+        - {x: -24.5, y: 46}
+        - {x: -23.5, y: 47}
+        - {x: -23.5, y: 49}
+        - {x: -25.5, y: 51}
+        - {x: -28.5, y: 51}
+        - {x: -31.5, y: 48}
+        - {x: -30.5, y: 45}
+        - {x: -31.5, y: 43}
+        - {x: -29.5, y: 41}
+        - {x: -29.5, y: 40}
+        - {x: -31.5, y: 40}
+        - {x: -37.5, y: 44}
+        - {x: -43.5, y: 45}
+        - {x: -45.5, y: 42}
+        - {x: -43.5, y: 40}
+        - {x: -45.5, y: 38}
+        - {x: -45.5, y: 36}
+        - {x: -41.5, y: 33}
+        - {x: -41.5, y: 31}
+        - {x: -40.5, y: 30}
+        - {x: -41.5, y: 29}
+        - {x: -41.5, y: 27}
+        - {x: -38.5, y: 24}
+        - {x: -33.5, y: 26}
+        - {x: -33.5, y: 29}
+        - {x: -32.5, y: 28}
+        - {x: -30.5, y: 28}
+        - {x: -29.5, y: 27}
+        - {x: -35.5, y: 25}
+        - {x: -36.5, y: 23}
+        - {x: -38.5, y: 23}
+        - {x: -43.5, y: 21}
+        - {x: -45.5, y: 18}
+        - {x: -44.5, y: 15}
+        - {x: -40.5, y: 15}
+        - {x: -42.5, y: 15}
+        - {x: -45.5, y: 12}
+        - {x: -44.5, y: 9}
+        - {x: -40.5, y: 9}
+        - {x: -20.5, y: 19}
+        - {x: -20.5, y: -26}
+        - {x: -21.5, y: -25}
+        - {x: -24.5, y: -27}
+        - {x: -23.5, y: -30}
+        - {x: -24.5, y: -31}
+        - {x: -23.5, y: -34}
+        - {x: -24.5, y: -35}
+        - {x: -25.5, y: -35}
+        - {x: -24.5, y: -34}
+        - {x: -24.5, y: -32}
+        - {x: -25.5, y: -31}
+        - {x: -24.5, y: -30}
+        - {x: -24.5, y: -28}
+        - {x: -25.5, y: -27}
+        - {x: -24.5, y: -26}
+        - {x: -24.5, y: -24}
+        - {x: -26.5, y: -22}
+        - {x: -29.5, y: -23}
+        - {x: -29.5, y: -26}
+        - {x: -28.5, y: -27}
+        - {x: -29.5, y: -28}
+        - {x: -29.5, y: -30}
+        - {x: -28.5, y: -31}
+        - {x: -29.5, y: -33}
+        - {x: -34.5, y: -30}
+        - {x: -37.5, y: -28}
+        - {x: -43.5, y: -27}
+        - {x: -45.5, y: -30}
+        - {x: -43.5, y: -33}
+        - {x: -29.5, y: -40}
+        - {x: -29.5, y: -41}
+        - {x: -27.5, y: -43}
+        - {x: -23.5, y: -42}
+        - {x: -24.5, y: -43}
+        - {x: -27.5, y: -43}
+        - {x: -30.5, y: -46}
+        - {x: -32.5, y: -46}
+        - {x: -35.5, y: -48}
+        - {x: -45.5, y: -53}
+        - {x: -45.5, y: -55}
+        - {x: -42.5, y: -58}
+        - {x: -38.5, y: -56}
+        - {x: -36.5, y: -56}
+        - {x: -34.5, y: -54}
+        - {x: -32.5, y: -54}
+      - - {x: -9.5, y: -30}
+        - {x: -8.5, y: -29}
+        - {x: -9.5, y: -26}
+        - {x: -8.5, y: -25}
+        - {x: -8.5, y: -19}
+        - {x: -11.5, y: -16}
+        - {x: -12.5, y: -17}
+        - {x: -12.5, y: 18}
+        - {x: -10.5, y: 16}
+        - {x: -10.5, y: -34}
+        - {x: -9.5, y: -35}
+        - {x: -8.5, y: -34}
+      - - {x: -3.5, y: -24}
+        - {x: 0.5, y: -27}
+        - {x: 4.5, y: -28}
+        - {x: 3.5, y: -27}
+        - {x: 0.5, y: -29}
+        - {x: -3.5, y: -32}
+      - - {x: -35.5, y: 56}
+        - {x: -39.5, y: 56}
+        - {x: -41.5, y: 54}
+        - {x: -40.5, y: 50}
+        - {x: -41.5, y: 48}
+        - {x: -38.5, y: 45}
+        - {x: -36.5, y: 45}
+        - {x: -33.5, y: 48}
+        - {x: -33.5, y: 54}
+      - - {x: 5.5, y: 56}
+        - {x: 1.5, y: 56}
+        - {x: -0.5, y: 54}
+        - {x: 0.5, y: 50}
+        - {x: -0.5, y: 48}
+        - {x: 2.5, y: 45}
+        - {x: 4.5, y: 45}
+        - {x: 7.5, y: 48}
+        - {x: 7.5, y: 54}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 23eca694cf6b20b70800000000000000
+      internalID: 8863848211298307634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_1
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 523
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4.5, y: -50}
+        - {x: -4.5, y: -45}
+        - {x: -4.5, y: -43}
+        - {x: -5.5, y: -42}
+        - {x: -4.5, y: -41}
+        - {x: -1.5, y: -41}
+        - {x: 1.5, y: -39}
+        - {x: 4.5, y: -39}
+        - {x: 7.5, y: -37}
+        - {x: 9.5, y: -37}
+        - {x: 10.5, y: -36}
+        - {x: 12.5, y: -36}
+        - {x: 16.5, y: -34}
+        - {x: 19.5, y: -34}
+        - {x: 43.5, y: -46}
+        - {x: 44.5, y: -45}
+        - {x: 46.5, y: -45}
+        - {x: 46.5, y: -37}
+        - {x: 44.5, y: -38}
+        - {x: 41.5, y: -38}
+        - {x: 37.5, y: -36}
+        - {x: 41.5, y: -34}
+        - {x: 40.5, y: -31}
+        - {x: 34.5, y: -31}
+        - {x: 32.5, y: -33}
+        - {x: 31.5, y: -33}
+        - {x: 29.5, y: -32}
+        - {x: 30.5, y: -28}
+        - {x: 28.5, y: -26}
+        - {x: 24.5, y: -27}
+        - {x: 23.5, y: -26}
+        - {x: 19.5, y: -27}
+        - {x: 17.5, y: -26}
+        - {x: 21.5, y: -23}
+        - {x: 20.5, y: -20}
+        - {x: 16.5, y: -20}
+        - {x: 15.5, y: -21}
+        - {x: 13.5, y: -21}
+        - {x: 11.5, y: -23}
+        - {x: 9.5, y: -21}
+        - {x: 7.5, y: -21}
+        - {x: 8.5, y: -20}
+        - {x: 9.5, y: -20}
+        - {x: 11.5, y: -18}
+        - {x: 10.5, y: -15}
+        - {x: 6.5, y: -15}
+        - {x: 5.5, y: -16}
+        - {x: 3.5, y: -15}
+        - {x: 1.5, y: -18}
+        - {x: -1.5, y: -15}
+        - {x: -2.5, y: -15}
+        - {x: -4.5, y: -17}
+        - {x: -5.5, y: -17}
+        - {x: -6.5, y: -16}
+        - {x: -9.5, y: -18}
+        - {x: -8.5, y: -21}
+        - {x: -9.5, y: -22}
+        - {x: -8.5, y: -25}
+        - {x: -9.5, y: -26}
+        - {x: -9.5, y: -28}
+        - {x: -8.5, y: -29}
+        - {x: -9.5, y: -30}
+        - {x: -8.5, y: -34}
+        - {x: -9.5, y: -35}
+        - {x: -8.5, y: -37}
+        - {x: -9.5, y: -38}
+        - {x: -10.5, y: -34}
+        - {x: -9.5, y: -33}
+        - {x: -10.5, y: -30}
+        - {x: -9.5, y: -29}
+        - {x: -10.5, y: -26}
+        - {x: -9.5, y: -25}
+        - {x: -10.5, y: -22}
+        - {x: -9.5, y: -21}
+        - {x: -9.5, y: -19}
+        - {x: -11.5, y: -17}
+        - {x: -13.5, y: -18}
+        - {x: -13.5, y: 19}
+        - {x: -12.5, y: 18}
+        - {x: -10.5, y: 18}
+        - {x: 0.5, y: 12}
+        - {x: 3.5, y: 10}
+        - {x: 9.5, y: 9}
+        - {x: 11.5, y: 12}
+        - {x: 9.5, y: 15}
+        - {x: 7.5, y: 15}
+        - {x: 11.5, y: 16}
+        - {x: 11.5, y: 18}
+        - {x: 9.5, y: 21}
+        - {x: 6.5, y: 22}
+        - {x: 3.5, y: 24}
+        - {x: 1.5, y: 24}
+        - {x: -3.5, y: 27}
+        - {x: -6.5, y: 29}
+        - {x: -8.5, y: 29}
+        - {x: -12.5, y: 31}
+        - {x: -11.5, y: 38}
+        - {x: -14.5, y: 42}
+        - {x: -14.5, y: 45}
+        - {x: -15.5, y: 47}
+        - {x: -14.5, y: 48}
+        - {x: -14.5, y: 50}
+        - {x: -16.5, y: 52}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 48}
+        - {x: -18.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 42}
+        - {x: -22.5, y: 38}
+        - {x: -22.5, y: 36}
+        - {x: -24.5, y: 37}
+        - {x: -24.5, y: 41}
+        - {x: -23.5, y: 42}
+        - {x: -23.5, y: 44}
+        - {x: -24.5, y: 45}
+        - {x: -23.5, y: 49}
+        - {x: -26.5, y: 52}
+        - {x: -27.5, y: 52}
+        - {x: -31.5, y: 49}
+        - {x: -30.5, y: 45}
+        - {x: -31.5, y: 43}
+        - {x: -29.5, y: 41}
+        - {x: -30.5, y: 40}
+        - {x: -42.5, y: 46}
+        - {x: -45.5, y: 43}
+        - {x: -45.5, y: 42}
+        - {x: -42.5, y: 40}
+        - {x: -45.5, y: 38}
+        - {x: -45.5, y: 36}
+        - {x: -44.5, y: 34}
+        - {x: -35.5, y: 30}
+        - {x: -32.5, y: 28}
+        - {x: -30.5, y: 28}
+        - {x: -29.5, y: 27}
+        - {x: -29.5, y: -33}
+        - {x: -34.5, y: -30}
+        - {x: -37.5, y: -28}
+        - {x: -43.5, y: -27}
+        - {x: -45.5, y: -30}
+        - {x: -43.5, y: -33}
+        - {x: 7.5, y: -58}
+        - {x: 8.5, y: -58}
+        - {x: 11.5, y: -55}
+        - {x: 11.5, y: -54}
+        - {x: 8.5, y: -51}
+      - - {x: -4.5, y: -33}
+        - {x: -3.5, y: -32}
+        - {x: -3.5, y: -30}
+        - {x: -4.5, y: -29}
+        - {x: -3.5, y: -28}
+        - {x: -4.5, y: -24}
+        - {x: -4.5, y: -23}
+        - {x: -2.5, y: -25}
+        - {x: -0.5, y: -25}
+        - {x: 3.5, y: -28}
+        - {x: 5.5, y: -28}
+        - {x: 10.5, y: -31}
+        - {x: 10.5, y: -30}
+        - {x: 8.5, y: -30}
+        - {x: 5.5, y: -32}
+        - {x: 2.5, y: -32}
+        - {x: -0.5, y: -34}
+        - {x: -3.5, y: -35}
+      - - {x: -24.5, y: 24}
+        - {x: -22.5, y: 22}
+        - {x: -21.5, y: 22}
+        - {x: -21.5, y: -20}
+        - {x: -22.5, y: -19}
+        - {x: -25.5, y: -22}
+        - {x: -24.5, y: -26}
+        - {x: -25.5, y: -27}
+        - {x: -25.5, y: -31}
+        - {x: -24.5, y: -34}
+        - {x: -23.5, y: -34}
+      - - {x: 4.5, y: 36}
+        - {x: 2.5, y: 36}
+        - {x: -0.5, y: 33}
+        - {x: -0.5, y: 27}
+        - {x: 1.5, y: 25}
+        - {x: 5.5, y: 25}
+        - {x: 7.5, y: 27}
+        - {x: 6.5, y: 31}
+        - {x: 7.5, y: 33}
+      - - {x: -5.5, y: 41}
+        - {x: -8.5, y: 41}
+        - {x: -10.5, y: 39}
+        - {x: -10.5, y: 32}
+        - {x: -7.5, y: 29}
+        - {x: -6.5, y: 29}
+        - {x: -2.5, y: 33}
+        - {x: -3.5, y: 36}
+        - {x: -2.5, y: 38}
+      - - {x: -35.5, y: 56}
+        - {x: -39.5, y: 56}
+        - {x: -41.5, y: 54}
+        - {x: -40.5, y: 50}
+        - {x: -41.5, y: 48}
+        - {x: -38.5, y: 45}
+        - {x: -36.5, y: 45}
+        - {x: -33.5, y: 48}
+        - {x: -33.5, y: 54}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5d060ca1e9f8fd6b0800000000000000
+      internalID: -5269335129783770923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_2
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 523
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -7.5, y: -46}
+        - {x: -3.5, y: -45}
+        - {x: 3.5, y: -41}
+        - {x: 5.5, y: -42}
+        - {x: 10.5, y: -40}
+        - {x: 10.5, y: -38}
+        - {x: 12.5, y: -37}
+        - {x: 13.5, y: -36}
+        - {x: 17.5, y: -36}
+        - {x: 19.5, y: -35}
+        - {x: 20.5, y: -33}
+        - {x: 23.5, y: -33}
+        - {x: 25.5, y: -31}
+        - {x: 26.5, y: -32}
+        - {x: 29.5, y: -31}
+        - {x: 29.5, y: -28}
+        - {x: 30.5, y: -28}
+        - {x: 33.5, y: -26}
+        - {x: 37.5, y: -26}
+        - {x: 41.5, y: -24}
+        - {x: 42.5, y: -22}
+        - {x: 43.5, y: -21}
+        - {x: 46.5, y: -21}
+        - {x: 46.5, y: -16}
+        - {x: 43.5, y: -16}
+        - {x: 37.5, y: -19}
+        - {x: 36.5, y: -21}
+        - {x: 33.5, y: -21}
+        - {x: 28.5, y: -23}
+        - {x: 27.5, y: -25}
+        - {x: 25.5, y: -25}
+        - {x: 23.5, y: -27}
+        - {x: 21.5, y: -26}
+        - {x: 18.5, y: -29}
+        - {x: 16.5, y: -29}
+        - {x: 14.5, y: -31}
+        - {x: 10.5, y: -31}
+        - {x: 11.5, y: -29}
+        - {x: 8.5, y: -26}
+        - {x: 7.5, y: -26}
+        - {x: 5.5, y: -28}
+        - {x: 3.5, y: -28}
+        - {x: 1.5, y: -30}
+        - {x: -2.5, y: -31}
+        - {x: -4.5, y: -33}
+        - {x: -4.5, y: 27}
+        - {x: -3.5, y: 28}
+        - {x: -1.5, y: 28}
+        - {x: 1.5, y: 30}
+        - {x: 6.5, y: 33}
+        - {x: 8.5, y: 33}
+        - {x: 10.5, y: 35}
+        - {x: 10.5, y: 38}
+        - {x: 9.5, y: 40}
+        - {x: 7.5, y: 40}
+        - {x: 10.5, y: 42}
+        - {x: 10.5, y: 44}
+        - {x: 8.5, y: 46}
+        - {x: 4.5, y: 44}
+        - {x: 2.5, y: 44}
+        - {x: -0.5, y: 42}
+        - {x: -4.5, y: 40}
+        - {x: -4.5, y: 41}
+        - {x: -2.5, y: 43}
+        - {x: -2.5, y: 44}
+        - {x: -3.5, y: 45}
+        - {x: -3.5, y: 49}
+        - {x: -6.5, y: 52}
+        - {x: -7.5, y: 52}
+        - {x: -10.5, y: 49}
+        - {x: -10.5, y: 42}
+        - {x: -9.5, y: 41}
+        - {x: -9.5, y: 37}
+        - {x: -11.5, y: 36}
+        - {x: -14.5, y: 41}
+        - {x: -14.5, y: 45}
+        - {x: -15.5, y: 47}
+        - {x: -14.5, y: 48}
+        - {x: -14.5, y: 50}
+        - {x: -16.5, y: 52}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 48}
+        - {x: -18.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 42}
+        - {x: -20.5, y: 41}
+        - {x: -23.5, y: 37}
+        - {x: -23.5, y: 36}
+        - {x: -22.5, y: 35}
+        - {x: -22.5, y: 32}
+        - {x: -21.5, y: 31}
+        - {x: -25.5, y: 29}
+        - {x: -27.5, y: 29}
+        - {x: -30.5, y: 27}
+        - {x: -35.5, y: 24}
+        - {x: -37.5, y: 24}
+        - {x: -40.5, y: 22}
+        - {x: -43.5, y: 21}
+        - {x: -45.5, y: 18}
+        - {x: -44.5, y: 14}
+        - {x: -45.5, y: 13}
+        - {x: -45.5, y: 10}
+        - {x: -43.5, y: 8}
+        - {x: -39.5, y: 10}
+        - {x: -37.5, y: 10}
+        - {x: -34.5, y: 12}
+        - {x: -29.5, y: 15}
+        - {x: -27.5, y: 15}
+        - {x: -24.5, y: 17}
+        - {x: -20.5, y: 19}
+        - {x: -20.5, y: -41}
+        - {x: -22.5, y: -41}
+        - {x: -25.5, y: -43}
+        - {x: -30.5, y: -46}
+        - {x: -32.5, y: -46}
+        - {x: -34.5, y: -48}
+        - {x: -38.5, y: -49}
+        - {x: -41.5, y: -51}
+        - {x: -45.5, y: -53}
+        - {x: -45.5, y: -55}
+        - {x: -42.5, y: -58}
+        - {x: -18.5, y: -46}
+        - {x: -16.5, y: -46}
+        - {x: -13.5, y: -44}
+        - {x: -9.5, y: -43}
+      - - {x: -12.5, y: 21}
+        - {x: -11.5, y: 20}
+        - {x: -8.5, y: 23}
+        - {x: -9.5, y: 25}
+        - {x: -10.5, y: -34}
+        - {x: -12.5, y: -33}
+        - {x: -13.5, y: -34}
+        - {x: -12.5, y: -34}
+      - - {x: -38.5, y: 36}
+        - {x: -41.5, y: 33}
+        - {x: -41.5, y: 27}
+        - {x: -38.5, y: 24}
+        - {x: -33.5, y: 27}
+        - {x: -34.5, y: 31}
+        - {x: -33.5, y: 33}
+        - {x: -36.5, y: 36}
+      - - {x: -26.5, y: 41}
+        - {x: -28.5, y: 41}
+        - {x: -31.5, y: 38}
+        - {x: -31.5, y: 32}
+        - {x: -29.5, y: 30}
+        - {x: -25.5, y: 30}
+        - {x: -23.5, y: 32}
+        - {x: -24.5, y: 36}
+        - {x: -23.5, y: 38}
+      - - {x: 7.5, y: 54}
+        - {x: 6.5, y: 56}
+        - {x: 2.5, y: 57}
+        - {x: -0.5, y: 54}
+        - {x: -0.5, y: 48}
+        - {x: 2.5, y: 45}
+        - {x: 4.5, y: 45}
+        - {x: 7.5, y: 48}
+        - {x: 6.5, y: 51}
+        - {x: 7.5, y: 52}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 792d0a2897aae8080800000000000000
+      internalID: -9183215151302520169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 534
+        width: 70
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -19, y: -49}
+        - {x: -18, y: -48}
+        - {x: -16, y: -48}
+        - {x: -15, y: -47}
+        - {x: -13, y: -47}
+        - {x: -12, y: -46}
+        - {x: -10, y: -46}
+        - {x: -9, y: -45}
+        - {x: -7, y: -45}
+        - {x: -6, y: -44}
+        - {x: -4, y: -44}
+        - {x: -3, y: -43}
+        - {x: -1, y: -43}
+        - {x: 0, y: -42}
+        - {x: 2, y: -42}
+        - {x: 3, y: -41}
+        - {x: 5, y: -41}
+        - {x: 9, y: -39}
+        - {x: 15, y: -39}
+        - {x: 19, y: -36}
+        - {x: 18, y: -34}
+        - {x: 20, y: -33}
+        - {x: 26, y: -32}
+        - {x: 30, y: -29}
+        - {x: 33, y: -27}
+        - {x: 35, y: -27}
+        - {x: 35, y: -22}
+        - {x: 33, y: -22}
+        - {x: 30, y: -24}
+        - {x: 28, y: -24}
+        - {x: 25, y: -27}
+        - {x: 22, y: -27}
+        - {x: 20, y: -29}
+        - {x: 18, y: -29}
+        - {x: 12, y: -33}
+        - {x: 10, y: -32}
+        - {x: 6, y: -35}
+        - {x: 0, y: -37}
+        - {x: -2, y: -33}
+        - {x: -8, y: -34}
+        - {x: -11, y: -36}
+        - {x: -16, y: -38}
+        - {x: -17, y: -40}
+        - {x: -19, y: -40}
+        - {x: -25, y: -43}
+        - {x: -25, y: 17}
+        - {x: -23, y: 17}
+        - {x: -21, y: 19}
+        - {x: -18, y: 19}
+        - {x: -15, y: 21}
+        - {x: -12, y: 22}
+        - {x: -11, y: 24}
+        - {x: -7, y: 25}
+        - {x: -5, y: 27}
+        - {x: -3, y: 27}
+        - {x: 0, y: 30}
+        - {x: 0, y: 32}
+        - {x: -2, y: 34}
+        - {x: 0, y: 36}
+        - {x: 0, y: 37}
+        - {x: -2, y: 39}
+        - {x: -8, y: 38}
+        - {x: -11, y: 36}
+        - {x: -16, y: 33}
+        - {x: -18, y: 33}
+        - {x: -21, y: 31}
+        - {x: -23, y: 30}
+        - {x: -23, y: 32}
+        - {x: -26, y: 36}
+        - {x: -26, y: 39}
+        - {x: -27, y: 41}
+        - {x: -26, y: 42}
+        - {x: -26, y: 44}
+        - {x: -28, y: 46}
+        - {x: -31, y: 45}
+        - {x: -31, y: 42}
+        - {x: -30, y: 41}
+        - {x: -31, y: 39}
+        - {x: -31, y: 35}
+        - {x: -34, y: 31}
+        - {x: -34, y: 29}
+        - {x: -32, y: 25}
+        - {x: -32, y: -50}
+        - {x: -30, y: -52}
+        - {x: -27, y: -52}
+        - {x: -24, y: -50}
+        - {x: -22, y: -50}
+        - {x: -21, y: -49}
+      - - {x: -17, y: 45}
+        - {x: -20, y: 45}
+        - {x: -22, y: 43}
+        - {x: -22, y: 36}
+        - {x: -20, y: 34}
+        - {x: -16, y: 34}
+        - {x: -14, y: 36}
+        - {x: -15, y: 40}
+        - {x: -14, y: 42}
+      - - {x: -6, y: 50}
+        - {x: -10, y: 50}
+        - {x: -12, y: 48}
+        - {x: -11, y: 44}
+        - {x: -12, y: 42}
+        - {x: -8, y: 38}
+        - {x: -7, y: 38}
+        - {x: -4, y: 41}
+        - {x: -4, y: 48}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4973ce92f4a880670800000000000000
+      internalID: 8505199968899577748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_4
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 535
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2.5, y: -49}
+        - {x: -1.5, y: -48}
+        - {x: 0.5, y: -48}
+        - {x: 1.5, y: -47}
+        - {x: 3.5, y: -47}
+        - {x: 4.5, y: -46}
+        - {x: 6.5, y: -46}
+        - {x: 7.5, y: -45}
+        - {x: 9.5, y: -45}
+        - {x: 10.5, y: -44}
+        - {x: 12.5, y: -44}
+        - {x: 13.5, y: -43}
+        - {x: 15.5, y: -43}
+        - {x: 16.5, y: -42}
+        - {x: 18.5, y: -42}
+        - {x: 19.5, y: -41}
+        - {x: 21.5, y: -41}
+        - {x: 22.5, y: -40}
+        - {x: 24.5, y: -40}
+        - {x: 29.5, y: -38}
+        - {x: 29.5, y: -37}
+        - {x: 30.5, y: -36}
+        - {x: 32.5, y: -38}
+        - {x: 34.5, y: -38}
+        - {x: 36.5, y: -36}
+        - {x: 36.5, y: -34}
+        - {x: 34.5, y: -32}
+        - {x: 30.5, y: -31}
+        - {x: 29.5, y: -32}
+        - {x: 25.5, y: -33}
+        - {x: 23.5, y: -31}
+        - {x: 27.5, y: -29}
+        - {x: 26.5, y: -26}
+        - {x: 22.5, y: -26}
+        - {x: 21.5, y: -27}
+        - {x: 16.5, y: -28}
+        - {x: 13.5, y: -26}
+        - {x: 17.5, y: -24}
+        - {x: 16.5, y: -21}
+        - {x: 12.5, y: -21}
+        - {x: 11.5, y: -22}
+        - {x: 6.5, y: -23}
+        - {x: 2.5, y: -21}
+        - {x: -2.5, y: -23}
+        - {x: -2.5, y: -25}
+        - {x: -0.5, y: -28}
+        - {x: 3.5, y: -29}
+        - {x: 4.5, y: -28}
+        - {x: 7.5, y: -28}
+        - {x: 7.5, y: -30}
+        - {x: 9.5, y: -33}
+        - {x: 15.5, y: -35}
+        - {x: 16.5, y: -34}
+        - {x: 17.5, y: -37}
+        - {x: 15.5, y: -37}
+        - {x: 14.5, y: -38}
+        - {x: 12.5, y: -38}
+        - {x: 11.5, y: -39}
+        - {x: 9.5, y: -39}
+        - {x: 8.5, y: -40}
+        - {x: 6.5, y: -40}
+        - {x: 5.5, y: -41}
+        - {x: 3.5, y: -41}
+        - {x: -0.5, y: -43}
+        - {x: -6.5, y: -44}
+        - {x: -7.5, y: -41}
+        - {x: -6.5, y: -40}
+        - {x: -7.5, y: -37}
+        - {x: -6.5, y: -36}
+        - {x: -7.5, y: -32}
+        - {x: -6.5, y: -31}
+        - {x: -7.5, y: -28}
+        - {x: -6.5, y: -27}
+        - {x: -7.5, y: -25}
+        - {x: -7.5, y: 24}
+        - {x: -5.5, y: 27}
+        - {x: -4.5, y: 31}
+        - {x: -7.5, y: 35}
+        - {x: -8.5, y: 36}
+        - {x: -8.5, y: 39}
+        - {x: -10.5, y: 41}
+        - {x: -13.5, y: 40}
+        - {x: -13.5, y: 35}
+        - {x: -16.5, y: 32}
+        - {x: -16.5, y: 30}
+        - {x: -18.5, y: 31}
+        - {x: -18.5, y: 36}
+        - {x: -17.5, y: 37}
+        - {x: -17.5, y: 39}
+        - {x: -18.5, y: 40}
+        - {x: -17.5, y: 41}
+        - {x: -17.5, y: 43}
+        - {x: -20.5, y: 46}
+        - {x: -21.5, y: 46}
+        - {x: -24.5, y: 43}
+        - {x: -24.5, y: 39}
+        - {x: -25.5, y: 37}
+        - {x: -23.5, y: 35}
+        - {x: -24.5, y: 34}
+        - {x: -30.5, y: 38}
+        - {x: -32.5, y: 38}
+        - {x: -36.5, y: 40}
+        - {x: -38.5, y: 38}
+        - {x: -38.5, y: 36}
+        - {x: -37.5, y: 34}
+        - {x: -35.5, y: 34}
+        - {x: -38.5, y: 32}
+        - {x: -38.5, y: 30}
+        - {x: -37.5, y: 28}
+        - {x: -34.5, y: 27}
+        - {x: -31.5, y: 25}
+        - {x: -29.5, y: 25}
+        - {x: -26.5, y: 22}
+        - {x: -23.5, y: 22}
+        - {x: -23.5, y: -38}
+        - {x: -24.5, y: -38}
+        - {x: -23.5, y: -37}
+        - {x: -24.5, y: -34}
+        - {x: -26.5, y: -34}
+        - {x: -28.5, y: -36}
+        - {x: -29.5, y: -35}
+        - {x: -28.5, y: -34}
+        - {x: -30.5, y: -31}
+        - {x: -34.5, y: -33}
+        - {x: -35.5, y: -32}
+        - {x: -38.5, y: -33}
+        - {x: -38.5, y: -36}
+        - {x: -36.5, y: -39}
+        - {x: -15.5, y: -49}
+        - {x: -12.5, y: -51}
+        - {x: -8.5, y: -51}
+        - {x: -7.5, y: -50}
+        - {x: -5.5, y: -50}
+        - {x: -4.5, y: -49}
+      - - {x: -18.5, y: 18}
+        - {x: -16.5, y: 16}
+        - {x: -15.5, y: 16}
+        - {x: -15.5, y: -26}
+        - {x: -16.5, y: -25}
+        - {x: -19.5, y: -28}
+        - {x: -19.5, y: -32}
+        - {x: -18.5, y: -36}
+        - {x: -19.5, y: -37}
+        - {x: -18.5, y: -40}
+        - {x: -17.5, y: -40}
+      - - {x: -27.5, y: 48}
+        - {x: -30.5, y: 51}
+        - {x: -32.5, y: 51}
+        - {x: -35.5, y: 48}
+        - {x: -35.5, y: 46}
+        - {x: -34.5, y: 45}
+        - {x: -35.5, y: 44}
+        - {x: -35.5, y: 42}
+        - {x: -32.5, y: 39}
+        - {x: -30.5, y: 39}
+        - {x: -27.5, y: 42}
+      - - {x: -11.5, y: 41}
+        - {x: -8.5, y: 42}
+        - {x: -8.5, y: 45}
+        - {x: -11.5, y: 46}
+        - {x: -13.5, y: 44}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b5214e78cd0da8a10800000000000000
+      internalID: 1912570637363450459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 523
+        width: 81
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -15.5, y: -45.5}
+        - {x: -13.5, y: -43.5}
+        - {x: -11.5, y: -43.5}
+        - {x: -8.5, y: -41.5}
+        - {x: -4.5, y: -40.5}
+        - {x: -2.5, y: -43.5}
+        - {x: 1.5, y: -42.5}
+        - {x: 8.5, y: -38.5}
+        - {x: 12.5, y: -38.5}
+        - {x: 14.5, y: -37.5}
+        - {x: 15.5, y: -35.5}
+        - {x: 20.5, y: -32.5}
+        - {x: 22.5, y: -33.5}
+        - {x: 25.5, y: -32.5}
+        - {x: 28.5, y: -29.5}
+        - {x: 29.5, y: -25.5}
+        - {x: 26.5, y: -23.5}
+        - {x: 22.5, y: -26.5}
+        - {x: 20.5, y: -26.5}
+        - {x: 19.5, y: -27.5}
+        - {x: 17.5, y: -27.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 14.5, y: -28.5}
+        - {x: 13.5, y: -29.5}
+        - {x: 11.5, y: -29.5}
+        - {x: 10.5, y: -30.5}
+        - {x: 8.5, y: -30.5}
+        - {x: 7.5, y: -31.5}
+        - {x: 5.5, y: -31.5}
+        - {x: 4.5, y: -32.5}
+        - {x: 2.5, y: -32.5}
+        - {x: 1.5, y: -33.5}
+        - {x: -0.5, y: -33.5}
+        - {x: -1.5, y: -34.5}
+        - {x: -3.5, y: -34.5}
+        - {x: -7.5, y: -36.5}
+        - {x: -7.5, y: 33.5}
+        - {x: -6.5, y: 34.5}
+        - {x: -6.5, y: 37.5}
+        - {x: -5.5, y: 39.5}
+        - {x: -8.5, y: 42.5}
+        - {x: -8.5, y: 44.5}
+        - {x: -11.5, y: 49.5}
+        - {x: -14.5, y: 48.5}
+        - {x: -14.5, y: 43.5}
+        - {x: -17.5, y: 39.5}
+        - {x: -17.5, y: 38.5}
+        - {x: -16.5, y: 37.5}
+        - {x: -16.5, y: 33.5}
+        - {x: -19.5, y: 32.5}
+        - {x: -18.5, y: 36.5}
+        - {x: -19.5, y: 37.5}
+        - {x: -18.5, y: 38.5}
+        - {x: -18.5, y: 41.5}
+        - {x: -21.5, y: 44.5}
+        - {x: -22.5, y: 44.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -25.5, y: 38.5}
+        - {x: -24.5, y: 37.5}
+        - {x: -25.5, y: 36.5}
+        - {x: -25.5, y: 34.5}
+        - {x: -24.5, y: 33.5}
+        - {x: -24.5, y: 29.5}
+        - {x: -25.5, y: 29.5}
+        - {x: -30.5, y: 26.5}
+        - {x: -32.5, y: 26.5}
+        - {x: -35.5, y: 24.5}
+        - {x: -39.5, y: 22.5}
+        - {x: -39.5, y: 19.5}
+        - {x: -38.5, y: 17.5}
+        - {x: -36.5, y: 17.5}
+        - {x: -39.5, y: 15.5}
+        - {x: -39.5, y: 12.5}
+        - {x: -37.5, y: 10.5}
+        - {x: -36.5, y: 10.5}
+        - {x: -33.5, y: 12.5}
+        - {x: -28.5, y: 15.5}
+        - {x: -26.5, y: 15.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -24.5, y: -42.5}
+        - {x: -25.5, y: -43.5}
+        - {x: -27.5, y: -43.5}
+        - {x: -29.5, y: -45.5}
+        - {x: -32.5, y: -45.5}
+        - {x: -35.5, y: -48.5}
+        - {x: -37.5, y: -48.5}
+        - {x: -39.5, y: -50.5}
+        - {x: -39.5, y: -53.5}
+        - {x: -37.5, y: -55.5}
+        - {x: -33.5, y: -53.5}
+        - {x: -31.5, y: -53.5}
+        - {x: -28.5, y: -51.5}
+        - {x: -17.5, y: -45.5}
+      - - {x: -18.5, y: 19.5}
+        - {x: -16.5, y: 19.5}
+        - {x: -15.5, y: 20.5}
+        - {x: -16.5, y: -37.5}
+        - {x: -17.5, y: -37.5}
+        - {x: -19.5, y: -39.5}
+        - {x: -18.5, y: -39.5}
+      - - {x: 30.5, y: -27.5}
+        - {x: 32.5, y: -29.5}
+        - {x: 35.5, y: -28.5}
+        - {x: 35.5, y: -25.5}
+        - {x: 33.5, y: -23.5}
+        - {x: 30.5, y: -24.5}
+      - - {x: -28.5, y: 36.5}
+        - {x: -30.5, y: 38.5}
+        - {x: -33.5, y: 38.5}
+        - {x: -36.5, y: 35.5}
+        - {x: -35.5, y: 32.5}
+        - {x: -36.5, y: 31.5}
+        - {x: -36.5, y: 29.5}
+        - {x: -35.5, y: 27.5}
+        - {x: -32.5, y: 26.5}
+        - {x: -31.5, y: 26.5}
+        - {x: -28.5, y: 29.5}
+      - - {x: -12.5, y: 49.5}
+        - {x: -9.5, y: 50.5}
+        - {x: -9.5, y: 53.5}
+        - {x: -12.5, y: 54.5}
+        - {x: -14.5, y: 52.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: fde6fcca67e8f6d50800000000000000
+      internalID: 6732756608298741471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_6
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 523
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 0, y: -43.5}
+        - {x: -1, y: -42.5}
+        - {x: 0, y: -41.5}
+        - {x: -1, y: -37.5}
+        - {x: 0, y: -36.5}
+        - {x: -1, y: -34.5}
+        - {x: 2, y: -32.5}
+        - {x: 8, y: -31.5}
+        - {x: 32, y: -43.5}
+        - {x: 33, y: -42.5}
+        - {x: 35, y: -42.5}
+        - {x: 35, y: -36.5}
+        - {x: 31, y: -35.5}
+        - {x: 30, y: -36.5}
+        - {x: 29, y: -33.5}
+        - {x: 27, y: -33.5}
+        - {x: 29, y: -31.5}
+        - {x: 29, y: -30.5}
+        - {x: 27, y: -28.5}
+        - {x: 23, y: -28.5}
+        - {x: 21, y: -30.5}
+        - {x: 18, y: -28.5}
+        - {x: 19, y: -27.5}
+        - {x: 19, y: -25.5}
+        - {x: 17, y: -23.5}
+        - {x: 16, y: -23.5}
+        - {x: 14, y: -26.5}
+        - {x: 12, y: -23.5}
+        - {x: 10, y: -23.5}
+        - {x: 7, y: -26.5}
+        - {x: -1, y: -28.5}
+        - {x: -3, y: -27.5}
+        - {x: -5, y: -29.5}
+        - {x: -5, y: 11.5}
+        - {x: -2, y: 10.5}
+        - {x: 0, y: 12.5}
+        - {x: 0, y: 15.5}
+        - {x: -1, y: 17.5}
+        - {x: 0, y: 18.5}
+        - {x: 0, y: 20.5}
+        - {x: -3, y: 23.5}
+        - {x: -4, y: 23.5}
+        - {x: -5, y: 24.5}
+        - {x: -5, y: 28.5}
+        - {x: -4, y: 29.5}
+        - {x: -4, y: 31.5}
+        - {x: -5, y: 32.5}
+        - {x: -4, y: 33.5}
+        - {x: -4, y: 36.5}
+        - {x: -6, y: 38.5}
+        - {x: -9, y: 38.5}
+        - {x: -12, y: 35.5}
+        - {x: -11, y: 32.5}
+        - {x: -12, y: 31.5}
+        - {x: -12, y: 29.5}
+        - {x: -10, y: 27.5}
+        - {x: -10, y: 26.5}
+        - {x: -15, y: 29.5}
+        - {x: -18, y: 31.5}
+        - {x: -20, y: 31.5}
+        - {x: -24, y: 33.5}
+        - {x: -23, y: 34.5}
+        - {x: -23, y: 37.5}
+        - {x: -22, y: 39.5}
+        - {x: -25, y: 43.5}
+        - {x: -26, y: 44.5}
+        - {x: -26, y: 47.5}
+        - {x: -28, y: 49.5}
+        - {x: -31, y: 48.5}
+        - {x: -31, y: 43.5}
+        - {x: -34, y: 39.5}
+        - {x: -34, y: 37.5}
+        - {x: -32, y: 33.5}
+        - {x: -32, y: -40.5}
+        - {x: -30, y: -42.5}
+        - {x: -28, y: -42.5}
+        - {x: -3, y: -55.5}
+        - {x: 0, y: -54.5}
+        - {x: 0, y: -47.5}
+        - {x: -1, y: -46.5}
+        - {x: 0, y: -45.5}
+      - - {x: -4, y: -34.5}
+        - {x: -6, y: -35.5}
+        - {x: -5, y: -38.5}
+        - {x: -6, y: -39.5}
+        - {x: -6, y: -41.5}
+        - {x: -5, y: -42.5}
+        - {x: -6, y: -43.5}
+        - {x: -6, y: -45.5}
+        - {x: -5, y: -46.5}
+        - {x: -4, y: -46.5}
+      - - {x: -17, y: -40.5}
+        - {x: -20, y: -40.5}
+        - {x: -18, y: -41.5}
+        - {x: -16, y: -39.5}
+        - {x: -12, y: -39.5}
+        - {x: -10, y: -37.5}
+        - {x: -11, y: -44.5}
+        - {x: -12, y: -43.5}
+      - - {x: -23, y: 20.5}
+        - {x: -21, y: 18.5}
+        - {x: -18, y: 16.5}
+        - {x: -16, y: 16.5}
+        - {x: -11, y: 13.5}
+        - {x: -11, y: -30.5}
+        - {x: -13, y: -30.5}
+        - {x: -15, y: -32.5}
+        - {x: -18, y: -32.5}
+        - {x: -21, y: -34.5}
+        - {x: -23, y: -34.5}
+      - - {x: -14, y: 41.5}
+        - {x: -16, y: 43.5}
+        - {x: -19, y: 43.5}
+        - {x: -22, y: 40.5}
+        - {x: -22, y: 34.5}
+        - {x: -20, y: 32.5}
+        - {x: -16, y: 32.5}
+        - {x: -14, y: 34.5}
+        - {x: -15, y: 38.5}
+        - {x: -14, y: 39.5}
+      - - {x: -29, y: 49.5}
+        - {x: -26, y: 50.5}
+        - {x: -26, y: 53.5}
+        - {x: -29, y: 54.5}
+        - {x: -31, y: 52.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 5f08982e2c453c520800000000000000
+      internalID: 2721111795862962421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 394
+        width: 93
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -30.5, y: -49}
+        - {x: -26.5, y: -48}
+        - {x: -23.5, y: -46}
+        - {x: -18.5, y: -43}
+        - {x: -15.5, y: -43}
+        - {x: 8.5, y: -55}
+        - {x: 11.5, y: -52}
+        - {x: 11.5, y: -50}
+        - {x: 1.5, y: -45}
+        - {x: -0.5, y: -43}
+        - {x: -4.5, y: -42}
+        - {x: -1.5, y: -42}
+        - {x: 2.5, y: -39}
+        - {x: 6.5, y: -39}
+        - {x: 11.5, y: -37}
+        - {x: 11.5, y: -34}
+        - {x: 12.5, y: -34}
+        - {x: 15.5, y: -32}
+        - {x: 16.5, y: -33}
+        - {x: 20.5, y: -32}
+        - {x: 21.5, y: -33}
+        - {x: 23.5, y: -33}
+        - {x: 34.5, y: -39}
+        - {x: 37.5, y: -41}
+        - {x: 39.5, y: -41}
+        - {x: 43.5, y: -43}
+        - {x: 44.5, y: -42}
+        - {x: 46.5, y: -42}
+        - {x: 46.5, y: -34}
+        - {x: 44.5, y: -35}
+        - {x: 41.5, y: -35}
+        - {x: 37.5, y: -33}
+        - {x: 41.5, y: -31}
+        - {x: 40.5, y: -28}
+        - {x: 34.5, y: -28}
+        - {x: 32.5, y: -30}
+        - {x: 31.5, y: -30}
+        - {x: 29.5, y: -29}
+        - {x: 30.5, y: -25}
+        - {x: 28.5, y: -23}
+        - {x: 25.5, y: -23}
+        - {x: 24.5, y: -24}
+        - {x: 23.5, y: -23}
+        - {x: 21.5, y: -23}
+        - {x: 17.5, y: -26}
+        - {x: 15.5, y: -26}
+        - {x: 11.5, y: -28}
+        - {x: 8.5, y: -28}
+        - {x: 5.5, y: -30}
+        - {x: 2.5, y: -30}
+        - {x: -3.5, y: -33}
+        - {x: -7.5, y: -33}
+        - {x: -9.5, y: -35}
+        - {x: -12.5, y: -35}
+        - {x: -13.5, y: -36}
+        - {x: -13.5, y: 22}
+        - {x: -12.5, y: 21}
+        - {x: -8.5, y: 20}
+        - {x: -6.5, y: 18}
+        - {x: -4.5, y: 18}
+        - {x: 0.5, y: 15}
+        - {x: 3.5, y: 13}
+        - {x: 9.5, y: 12}
+        - {x: 11.5, y: 15}
+        - {x: 9.5, y: 18}
+        - {x: 7.5, y: 18}
+        - {x: 11.5, y: 19}
+        - {x: 11.5, y: 21}
+        - {x: 9.5, y: 24}
+        - {x: 6.5, y: 25}
+        - {x: 3.5, y: 27}
+        - {x: 1.5, y: 27}
+        - {x: -3.5, y: 30}
+        - {x: -6.5, y: 32}
+        - {x: -8.5, y: 32}
+        - {x: -12.5, y: 34}
+        - {x: -11.5, y: 41}
+        - {x: -14.5, y: 45}
+        - {x: -14.5, y: 48}
+        - {x: -15.5, y: 50}
+        - {x: -14.5, y: 51}
+        - {x: -14.5, y: 53}
+        - {x: -16.5, y: 55}
+        - {x: -19.5, y: 54}
+        - {x: -19.5, y: 51}
+        - {x: -18.5, y: 49}
+        - {x: -19.5, y: 48}
+        - {x: -19.5, y: 45}
+        - {x: -22.5, y: 41}
+        - {x: -22.5, y: 38}
+        - {x: -21.5, y: 37}
+        - {x: -21.5, y: 34}
+        - {x: -22.5, y: 34}
+        - {x: -24.5, y: 33}
+        - {x: -23.5, y: 37}
+        - {x: -24.5, y: 38}
+        - {x: -23.5, y: 39}
+        - {x: -23.5, y: 42}
+        - {x: -25.5, y: 44}
+        - {x: -28.5, y: 44}
+        - {x: -31.5, y: 41}
+        - {x: -30.5, y: 38}
+        - {x: -31.5, y: 37}
+        - {x: -31.5, y: 35}
+        - {x: -29.5, y: 33}
+        - {x: -29.5, y: 31}
+        - {x: -35.5, y: 27}
+        - {x: -37.5, y: 27}
+        - {x: -40.5, y: 25}
+        - {x: -43.5, y: 24}
+        - {x: -45.5, y: 21}
+        - {x: -44.5, y: 18}
+        - {x: -41.5, y: 18}
+        - {x: -45.5, y: 15}
+        - {x: -44.5, y: 12}
+        - {x: -40.5, y: 12}
+        - {x: -39.5, y: 13}
+        - {x: -37.5, y: 13}
+        - {x: -34.5, y: 15}
+        - {x: -29.5, y: 18}
+        - {x: -29.5, y: -42}
+        - {x: -30.5, y: -43}
+        - {x: -32.5, y: -43}
+        - {x: -35.5, y: -45}
+        - {x: -45.5, y: -50}
+        - {x: -45.5, y: -52}
+        - {x: -42.5, y: -55}
+        - {x: -38.5, y: -53}
+        - {x: -36.5, y: -53}
+        - {x: -34.5, y: -51}
+        - {x: -32.5, y: -51}
+      - - {x: -23.5, y: 20}
+        - {x: -21.5, y: 20}
+        - {x: -20.5, y: 21}
+        - {x: -21.5, y: -37}
+        - {x: -22.5, y: -37}
+        - {x: -24.5, y: -39}
+        - {x: -23.5, y: -39}
+      - - {x: -36.5, y: 39}
+        - {x: -38.5, y: 39}
+        - {x: -41.5, y: 36}
+        - {x: -41.5, y: 34}
+        - {x: -40.5, y: 33}
+        - {x: -41.5, y: 32}
+        - {x: -41.5, y: 30}
+        - {x: -38.5, y: 27}
+        - {x: -33.5, y: 29}
+        - {x: -33.5, y: 36}
+      - - {x: 7.5, y: 36}
+        - {x: 4.5, y: 39}
+        - {x: 2.5, y: 39}
+        - {x: -0.5, y: 36}
+        - {x: 0.5, y: 33}
+        - {x: -0.5, y: 32}
+        - {x: -0.5, y: 30}
+        - {x: 0.5, y: 28}
+        - {x: 3.5, y: 27}
+        - {x: 4.5, y: 27}
+        - {x: 7.5, y: 30}
+      - - {x: -8.5, y: 44}
+        - {x: -10.5, y: 42}
+        - {x: -10.5, y: 35}
+        - {x: -7.5, y: 32}
+        - {x: -2.5, y: 35}
+        - {x: -3.5, y: 39}
+        - {x: -2.5, y: 41}
+        - {x: -5.5, y: 44}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 234a45c9626988210800000000000000
+      internalID: 1335482382091068466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 395
+        width: 70
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: -49}
+        - {x: -6, y: -50}
+        - {x: -5, y: -48}
+        - {x: -6, y: -47}
+        - {x: -5, y: -43}
+        - {x: -6, y: -42}
+        - {x: -5, y: -41}
+        - {x: -5, y: -39}
+        - {x: -6, y: -38}
+        - {x: -5, y: -38}
+        - {x: -4, y: -41}
+        - {x: -5, y: -42}
+        - {x: -4, y: -45}
+        - {x: -5, y: -46}
+        - {x: -4, y: -49}
+        - {x: -1, y: -49}
+        - {x: 0, y: -46}
+        - {x: -1, y: -45}
+        - {x: 0, y: -42}
+        - {x: -1, y: -41}
+        - {x: 0, y: -38}
+        - {x: -1, y: -37}
+        - {x: 0, y: -36}
+        - {x: 1, y: -36}
+        - {x: 5, y: -34}
+        - {x: 8, y: -34}
+        - {x: 32, y: -46}
+        - {x: 33, y: -45}
+        - {x: 35, y: -45}
+        - {x: 35, y: -39}
+        - {x: 31, y: -38}
+        - {x: 30, y: -39}
+        - {x: 29, y: -36}
+        - {x: 27, y: -36}
+        - {x: 29, y: -34}
+        - {x: 29, y: -33}
+        - {x: 27, y: -31}
+        - {x: 23, y: -31}
+        - {x: 21, y: -33}
+        - {x: 18, y: -31}
+        - {x: 19, y: -30}
+        - {x: 19, y: -28}
+        - {x: 21, y: -27}
+        - {x: 22, y: -26}
+        - {x: 26, y: -26}
+        - {x: 30, y: -24}
+        - {x: 31, y: -22}
+        - {x: 32, y: -21}
+        - {x: 35, y: -21}
+        - {x: 35, y: -16}
+        - {x: 32, y: -16}
+        - {x: 26, y: -19}
+        - {x: 25, y: -21}
+        - {x: 22, y: -21}
+        - {x: 13, y: -26}
+        - {x: 13, y: -28}
+        - {x: 11, y: -26}
+        - {x: 10, y: -26}
+        - {x: 7, y: -29}
+        - {x: 1, y: -30}
+        - {x: 0, y: -31}
+        - {x: 0, y: -28}
+        - {x: -2, y: -26}
+        - {x: -6, y: -28}
+        - {x: -8, y: -28}
+        - {x: -11, y: -30}
+        - {x: -16, y: -33}
+        - {x: -18, y: -33}
+        - {x: -20, y: -35}
+        - {x: -24, y: -36}
+        - {x: -25, y: -37}
+        - {x: -25, y: 19}
+        - {x: -19, y: 16}
+        - {x: -17, y: 16}
+        - {x: -16, y: 14}
+        - {x: -11, y: 12}
+        - {x: -8, y: 10}
+        - {x: -6, y: 10}
+        - {x: -2, y: 8}
+        - {x: 0, y: 10}
+        - {x: 0, y: 13}
+        - {x: -2, y: 15}
+        - {x: -4, y: 15}
+        - {x: 0, y: 16}
+        - {x: 0, y: 19}
+        - {x: -2, y: 21}
+        - {x: -4, y: 21}
+        - {x: -8, y: 24}
+        - {x: -10, y: 24}
+        - {x: -16, y: 27}
+        - {x: -15, y: 28}
+        - {x: -13, y: 28}
+        - {x: -12, y: 29}
+        - {x: -11, y: 25}
+        - {x: -7, y: 24}
+        - {x: -4, y: 27}
+        - {x: -4, y: 29}
+        - {x: -5, y: 30}
+        - {x: -4, y: 31}
+        - {x: -4, y: 33}
+        - {x: 0, y: 35}
+        - {x: 0, y: 38}
+        - {x: -3, y: 40}
+        - {x: 0, y: 42}
+        - {x: 0, y: 44}
+        - {x: -2, y: 46}
+        - {x: -8, y: 45}
+        - {x: -12, y: 42}
+        - {x: -16, y: 40}
+        - {x: -16, y: 41}
+        - {x: -14, y: 43}
+        - {x: -14, y: 44}
+        - {x: -15, y: 45}
+        - {x: -14, y: 49}
+        - {x: -16, y: 51}
+        - {x: -20, y: 51}
+        - {x: -22, y: 49}
+        - {x: -21, y: 45}
+        - {x: -22, y: 43}
+        - {x: -20, y: 41}
+        - {x: -22, y: 39}
+        - {x: -22, y: 37}
+        - {x: -25, y: 41}
+        - {x: -27, y: 47}
+        - {x: -26, y: 48}
+        - {x: -26, y: 50}
+        - {x: -28, y: 52}
+        - {x: -31, y: 51}
+        - {x: -31, y: 48}
+        - {x: -30, y: 47}
+        - {x: -31, y: 45}
+        - {x: -31, y: 41}
+        - {x: -34, y: 38}
+        - {x: -34, y: 35}
+        - {x: -32, y: 31}
+        - {x: -32, y: -43}
+        - {x: -30, y: -45}
+        - {x: -28, y: -45}
+        - {x: -5, y: -57}
+        - {x: -2, y: -57}
+        - {x: 0, y: -55}
+        - {x: -1, y: -53}
+        - {x: 0, y: -52}
+      - - {x: -18, y: -42}
+        - {x: -21, y: -43}
+        - {x: -18, y: -44}
+        - {x: -16, y: -42}
+        - {x: -13, y: -42}
+        - {x: -10, y: -40}
+        - {x: -11, y: -41}
+        - {x: -10, y: -42}
+        - {x: -11, y: -43}
+        - {x: -10, y: -47}
+        - {x: -12, y: -46}
+      - - {x: -4, y: 54}
+        - {x: -7, y: 57}
+        - {x: -12, y: 54}
+        - {x: -11, y: 50}
+        - {x: -12, y: 48}
+        - {x: -9, y: 45}
+        - {x: -7, y: 45}
+        - {x: -4, y: 48}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 4cf25ace380132e10800000000000000
+      internalID: 2171597604119719876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 406
+        width: 92
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: -49}
+        - {x: -7, y: -48}
+        - {x: -5, y: -48}
+        - {x: -4, y: -47}
+        - {x: -2, y: -47}
+        - {x: -1, y: -46}
+        - {x: 1, y: -46}
+        - {x: 2, y: -45}
+        - {x: 4, y: -45}
+        - {x: 5, y: -44}
+        - {x: 7, y: -44}
+        - {x: 8, y: -43}
+        - {x: 10, y: -43}
+        - {x: 11, y: -42}
+        - {x: 13, y: -42}
+        - {x: 14, y: -41}
+        - {x: 16, y: -41}
+        - {x: 20, y: -39}
+        - {x: 26, y: -39}
+        - {x: 30, y: -36}
+        - {x: 29, y: -34}
+        - {x: 34, y: -32}
+        - {x: 38, y: -32}
+        - {x: 40, y: -31}
+        - {x: 41, y: -29}
+        - {x: 44, y: -27}
+        - {x: 46, y: -27}
+        - {x: 46, y: -22}
+        - {x: 44, y: -22}
+        - {x: 41, y: -24}
+        - {x: 39, y: -24}
+        - {x: 36, y: -27}
+        - {x: 33, y: -27}
+        - {x: 31, y: -29}
+        - {x: 29, y: -29}
+        - {x: 25, y: -32}
+        - {x: 21, y: -32}
+        - {x: 19, y: -33}
+        - {x: 17, y: -32}
+        - {x: 19, y: -30}
+        - {x: 19, y: -29}
+        - {x: 17, y: -27}
+        - {x: 14, y: -27}
+        - {x: 12, y: -29}
+        - {x: 11, y: -29}
+        - {x: 9, y: -27}
+        - {x: 7, y: -27}
+        - {x: 11, y: -26}
+        - {x: 11, y: -22}
+        - {x: 9, y: -20}
+        - {x: 8, y: -20}
+        - {x: 6, y: -22}
+        - {x: 6, y: 26}
+        - {x: 9, y: 25}
+        - {x: 11, y: 27}
+        - {x: 11, y: 37}
+        - {x: 9, y: 39}
+        - {x: 6, y: 39}
+        - {x: 7, y: 43}
+        - {x: 6, y: 44}
+        - {x: 7, y: 45}
+        - {x: 7, y: 48}
+        - {x: 4, y: 51}
+        - {x: 3, y: 51}
+        - {x: -1, y: 47}
+        - {x: -1, y: 46}
+        - {x: 0, y: 45}
+        - {x: -1, y: 42}
+        - {x: 1, y: 40}
+        - {x: 1, y: 37}
+        - {x: -5, y: 33}
+        - {x: -7, y: 33}
+        - {x: -11, y: 30}
+        - {x: -11, y: 32}
+        - {x: -14, y: 35}
+        - {x: -16, y: 41}
+        - {x: -15, y: 42}
+        - {x: -16, y: 45}
+        - {x: -19, y: 45}
+        - {x: -20, y: 42}
+        - {x: -19, y: 41}
+        - {x: -20, y: 39}
+        - {x: -20, y: 35}
+        - {x: -23, y: 30}
+        - {x: -25, y: 31}
+        - {x: -25, y: 35}
+        - {x: -24, y: 36}
+        - {x: -24, y: 38}
+        - {x: -25, y: 39}
+        - {x: -24, y: 40}
+        - {x: -24, y: 43}
+        - {x: -27, y: 46}
+        - {x: -28, y: 46}
+        - {x: -31, y: 43}
+        - {x: -31, y: 40}
+        - {x: -30, y: 39}
+        - {x: -31, y: 38}
+        - {x: -31, y: 36}
+        - {x: -30, y: 35}
+        - {x: -30, y: 34}
+        - {x: -35, y: 37}
+        - {x: -35, y: 40}
+        - {x: -34, y: 41}
+        - {x: -34, y: 43}
+        - {x: -35, y: 44}
+        - {x: -34, y: 48}
+        - {x: -37, y: 51}
+        - {x: -38, y: 51}
+        - {x: -42, y: 47}
+        - {x: -42, y: 46}
+        - {x: -41, y: 45}
+        - {x: -42, y: 42}
+        - {x: -40, y: 40}
+        - {x: -40, y: 39}
+        - {x: -43, y: 40}
+        - {x: -45, y: 38}
+        - {x: -45, y: 35}
+        - {x: -44, y: 33}
+        - {x: -45, y: 32}
+        - {x: -45, y: 29}
+        - {x: -43, y: 27}
+        - {x: -41, y: 27}
+        - {x: -40, y: 26}
+        - {x: -40, y: -34}
+        - {x: -41, y: -33}
+        - {x: -43, y: -33}
+        - {x: -45, y: -35}
+        - {x: -45, y: -37}
+        - {x: -44, y: -39}
+        - {x: -21, y: -50}
+        - {x: -18, y: -52}
+        - {x: -16, y: -52}
+        - {x: -13, y: -50}
+        - {x: -11, y: -50}
+        - {x: -10, y: -49}
+      - - {x: -12, y: 16}
+        - {x: 0, y: 23}
+        - {x: 1, y: -23}
+        - {x: -1, y: -21}
+        - {x: -3, y: -21}
+        - {x: -4, y: -22}
+        - {x: -7, y: -21}
+        - {x: -10, y: -24}
+        - {x: -10, y: -26}
+        - {x: -7, y: -29}
+        - {x: -5, y: -29}
+        - {x: -2, y: -32}
+        - {x: 0, y: -32}
+        - {x: 0, y: -36}
+        - {x: -2, y: -36}
+        - {x: -5, y: -38}
+        - {x: -7, y: -38}
+        - {x: -10, y: -41}
+        - {x: -12, y: -41}
+        - {x: -13, y: -42}
+        - {x: -12, y: -42}
+      - - {x: -25, y: 18}
+        - {x: -23, y: 16}
+        - {x: -22, y: 16}
+        - {x: -22, y: -27}
+        - {x: -23, y: -26}
+        - {x: -26, y: -29}
+        - {x: -25, y: -32}
+        - {x: -26, y: -33}
+        - {x: -26, y: -37}
+        - {x: -25, y: -40}
+        - {x: -24, y: -40}
+      - - {x: -30, y: -34}
+        - {x: -29, y: -32}
+        - {x: -32, y: -29}
+        - {x: -33, y: -29}
+        - {x: -36, y: -32}
+        - {x: -36, y: -33}
+        - {x: -35, y: -34}
+        - {x: -36, y: -35}
+        - {x: -35, y: -36}
+        - {x: -34, y: -35}
+        - {x: -35, y: 23}
+        - {x: -33, y: 21}
+        - {x: -31, y: 21}
+        - {x: -30, y: -39}
+        - {x: -29, y: -38}
+      - - {x: -3, y: 43}
+        - {x: -5, y: 45}
+        - {x: -8, y: 45}
+        - {x: -11, y: 42}
+        - {x: -11, y: 36}
+        - {x: -9, y: 34}
+        - {x: -5, y: 34}
+        - {x: -3, y: 36}
+        - {x: -4, y: 40}
+        - {x: -3, y: 41}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 55382556d87a5cb60800000000000000
+      internalID: 7765797358202422101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_10
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 396
+        width: 77
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -21.5, y: -52}
+        - {x: -19.5, y: -50}
+        - {x: -17.5, y: -50}
+        - {x: -13.5, y: -47}
+        - {x: -11.5, y: -47}
+        - {x: -5.5, y: -44}
+        - {x: -3.5, y: -44}
+        - {x: -1.5, y: -47}
+        - {x: 2.5, y: -46}
+        - {x: 4.5, y: -44}
+        - {x: 3.5, y: -41}
+        - {x: 4.5, y: -40}
+        - {x: 6.5, y: -43}
+        - {x: 7.5, y: -43}
+        - {x: 10.5, y: -39}
+        - {x: 12.5, y: -42}
+        - {x: 14.5, y: -42}
+        - {x: 15.5, y: -39}
+        - {x: 12.5, y: -37}
+        - {x: 16.5, y: -36}
+        - {x: 16.5, y: -33}
+        - {x: 13.5, y: -32}
+        - {x: 12.5, y: -33}
+        - {x: 10.5, y: -33}
+        - {x: 7.5, y: -36}
+        - {x: 5.5, y: -36}
+        - {x: 3.5, y: -38}
+        - {x: 2.5, y: -37}
+        - {x: 0.5, y: -38}
+        - {x: -1.5, y: -37}
+        - {x: -2.5, y: -38}
+        - {x: -6.5, y: -39}
+        - {x: -6.5, y: 31}
+        - {x: -5.5, y: 32}
+        - {x: -4.5, y: 36}
+        - {x: -7.5, y: 39}
+        - {x: -9.5, y: 47}
+        - {x: -8.5, y: 48}
+        - {x: -9.5, y: 51}
+        - {x: -12.5, y: 51}
+        - {x: -13.5, y: 48}
+        - {x: -12.5, y: 47}
+        - {x: -13.5, y: 45}
+        - {x: -13.5, y: 41}
+        - {x: -16.5, y: 36}
+        - {x: -17.5, y: 37}
+        - {x: -18.5, y: 41}
+        - {x: -17.5, y: 42}
+        - {x: -17.5, y: 44}
+        - {x: -18.5, y: 45}
+        - {x: -17.5, y: 46}
+        - {x: -17.5, y: 48}
+        - {x: -20.5, y: 52}
+        - {x: -21.5, y: 52}
+        - {x: -25.5, y: 48}
+        - {x: -25.5, y: 47}
+        - {x: -24.5, y: 46}
+        - {x: -25.5, y: 42}
+        - {x: -23.5, y: 40}
+        - {x: -25.5, y: 40}
+        - {x: -34.5, y: 45}
+        - {x: -37.5, y: 45}
+        - {x: -38.5, y: 44}
+        - {x: -38.5, y: -57}
+        - {x: -31.5, y: -57}
+        - {x: -29.5, y: -55}
+        - {x: -25.5, y: -54}
+        - {x: -23.5, y: -52}
+      - - {x: -33.5, y: -35}
+        - {x: -24.5, y: -45}
+        - {x: -33.5, y: -50}
+      - - {x: -33.5, y: -27}
+        - {x: -33.5, y: 8}
+        - {x: -24.5, y: 13}
+        - {x: -24.5, y: -32}
+        - {x: -25.5, y: -31}
+      - - {x: 32.5, y: -26}
+        - {x: 31.5, y: -27}
+        - {x: 28.5, y: -26}
+        - {x: 26.5, y: -28}
+        - {x: 25.5, y: -32}
+        - {x: 27.5, y: -34}
+        - {x: 30.5, y: -34}
+        - {x: 35.5, y: -29}
+        - {x: 35.5, y: -27}
+      - - {x: 22.5, y: -26}
+        - {x: 23.5, y: -23}
+        - {x: 21.5, y: -21}
+        - {x: 18.5, y: -22}
+        - {x: 18.5, y: -24}
+        - {x: 17.5, y: -25}
+        - {x: 14.5, y: -24}
+        - {x: 11.5, y: -26}
+        - {x: 12.5, y: -29}
+        - {x: 17.5, y: -31}
+        - {x: 21.5, y: -30}
+        - {x: 22.5, y: -31}
+        - {x: 25.5, y: -30}
+        - {x: 25.5, y: -28}
+      - - {x: 16.5, y: -19}
+        - {x: 16.5, y: -16}
+        - {x: 13.5, y: -15}
+        - {x: 11.5, y: -18}
+        - {x: 9.5, y: -17}
+        - {x: 8.5, y: -18}
+        - {x: 5.5, y: -18}
+        - {x: 3.5, y: -19}
+        - {x: 2.5, y: -18}
+        - {x: -1.5, y: -17}
+        - {x: -3.5, y: -19}
+        - {x: -2.5, y: -22}
+        - {x: 0.5, y: -22}
+        - {x: 2.5, y: -24}
+        - {x: 5.5, y: -25}
+        - {x: 9.5, y: -24}
+        - {x: 11.5, y: -23}
+        - {x: 12.5, y: -19}
+        - {x: 13.5, y: -20}
+      - - {x: -34.5, y: 24}
+        - {x: -33.5, y: 23}
+        - {x: -29.5, y: 23}
+        - {x: -26.5, y: 26}
+        - {x: -26.5, y: 28}
+        - {x: -27.5, y: 28}
+        - {x: -24.5, y: 27}
+        - {x: -33.5, y: 22}
+      - - {x: -27.5, y: 53}
+        - {x: -30.5, y: 56}
+        - {x: -32.5, y: 56}
+        - {x: -35.5, y: 53}
+        - {x: -35.5, y: 51}
+        - {x: -34.5, y: 50}
+        - {x: -35.5, y: 49}
+        - {x: -35.5, y: 47}
+        - {x: -33.5, y: 45}
+        - {x: -29.5, y: 45}
+        - {x: -27.5, y: 47}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 3e0cba2a99f6fa7b0800000000000000
+      internalID: -5210823538194530077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_11
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 395
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: -43}
+        - {x: -7.5, y: -46}
+        - {x: -3.5, y: -45}
+        - {x: 3.5, y: -41}
+        - {x: 5.5, y: -42}
+        - {x: 6.5, y: -41}
+        - {x: 9.5, y: -41}
+        - {x: 11.5, y: -39}
+        - {x: 11.5, y: -37}
+        - {x: 12.5, y: -37}
+        - {x: 13.5, y: -36}
+        - {x: 18.5, y: -36}
+        - {x: 21.5, y: -33}
+        - {x: 24.5, y: -33}
+        - {x: 25.5, y: -32}
+        - {x: 28.5, y: -32}
+        - {x: 30.5, y: -30}
+        - {x: 30.5, y: -28}
+        - {x: 32.5, y: -27}
+        - {x: 33.5, y: -26}
+        - {x: 37.5, y: -26}
+        - {x: 41.5, y: -24}
+        - {x: 42.5, y: -22}
+        - {x: 43.5, y: -21}
+        - {x: 46.5, y: -21}
+        - {x: 46.5, y: -16}
+        - {x: 43.5, y: -16}
+        - {x: 37.5, y: -19}
+        - {x: 36.5, y: -21}
+        - {x: 33.5, y: -21}
+        - {x: 24.5, y: -26}
+        - {x: 24.5, y: -28}
+        - {x: 22.5, y: -26}
+        - {x: 21.5, y: -26}
+        - {x: 19.5, y: -27}
+        - {x: 17.5, y: -26}
+        - {x: 21.5, y: -23}
+        - {x: 20.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 16.5, y: -21}
+        - {x: 13.5, y: -21}
+        - {x: 11.5, y: -23}
+        - {x: 9.5, y: -21}
+        - {x: 7.5, y: -21}
+        - {x: 8.5, y: -20}
+        - {x: 9.5, y: -20}
+        - {x: 11.5, y: -18}
+        - {x: 10.5, y: -15}
+        - {x: 6.5, y: -15}
+        - {x: 5.5, y: -16}
+        - {x: 3.5, y: -15}
+        - {x: 1.5, y: -18}
+        - {x: -0.5, y: -16}
+        - {x: -2.5, y: -16}
+        - {x: -3.5, y: -17}
+        - {x: -7.5, y: -16}
+        - {x: -9.5, y: -18}
+        - {x: -8.5, y: -21}
+        - {x: -9.5, y: -22}
+        - {x: -8.5, y: -25}
+        - {x: -9.5, y: -26}
+        - {x: -9.5, y: -28}
+        - {x: -8.5, y: -29}
+        - {x: -9.5, y: -30}
+        - {x: -8.5, y: -34}
+        - {x: -9.5, y: -35}
+        - {x: -10.5, y: -35}
+        - {x: -9.5, y: -32}
+        - {x: -10.5, y: -31}
+        - {x: -9.5, y: -28}
+        - {x: -10.5, y: -27}
+        - {x: -9.5, y: -23}
+        - {x: -10.5, y: -22}
+        - {x: -9.5, y: -21}
+        - {x: -9.5, y: -19}
+        - {x: -11.5, y: -17}
+        - {x: -13.5, y: -18}
+        - {x: -13.5, y: 23}
+        - {x: -11.5, y: 23}
+        - {x: -9.5, y: 25}
+        - {x: -6.5, y: 25}
+        - {x: -3.5, y: 28}
+        - {x: -1.5, y: 28}
+        - {x: 1.5, y: 30}
+        - {x: 11.5, y: 35}
+        - {x: 11.5, y: 38}
+        - {x: 10.5, y: 40}
+        - {x: 8.5, y: 40}
+        - {x: 11.5, y: 42}
+        - {x: 11.5, y: 43}
+        - {x: 8.5, y: 46}
+        - {x: 7.5, y: 46}
+        - {x: -5.5, y: 39}
+        - {x: -7.5, y: 39}
+        - {x: -11.5, y: 36}
+        - {x: -11.5, y: 38}
+        - {x: -14.5, y: 42}
+        - {x: -14.5, y: 45}
+        - {x: -15.5, y: 47}
+        - {x: -14.5, y: 48}
+        - {x: -14.5, y: 50}
+        - {x: -16.5, y: 52}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 48}
+        - {x: -18.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 42}
+        - {x: -22.5, y: 38}
+        - {x: -22.5, y: 36}
+        - {x: -23.5, y: 37}
+        - {x: -24.5, y: 41}
+        - {x: -23.5, y: 42}
+        - {x: -24.5, y: 46}
+        - {x: -23.5, y: 47}
+        - {x: -23.5, y: 49}
+        - {x: -26.5, y: 52}
+        - {x: -27.5, y: 52}
+        - {x: -31.5, y: 48}
+        - {x: -31.5, y: 47}
+        - {x: -30.5, y: 46}
+        - {x: -31.5, y: 43}
+        - {x: -29.5, y: 41}
+        - {x: -30.5, y: 40}
+        - {x: -42.5, y: 46}
+        - {x: -45.5, y: 43}
+        - {x: -45.5, y: 42}
+        - {x: -42.5, y: 40}
+        - {x: -45.5, y: 37}
+        - {x: -45.5, y: 36}
+        - {x: -41.5, y: 33}
+        - {x: -41.5, y: 31}
+        - {x: -40.5, y: 30}
+        - {x: -41.5, y: 29}
+        - {x: -41.5, y: 27}
+        - {x: -39.5, y: 25}
+        - {x: -35.5, y: 25}
+        - {x: -33.5, y: 27}
+        - {x: -33.5, y: 29}
+        - {x: -32.5, y: 28}
+        - {x: -30.5, y: 28}
+        - {x: -29.5, y: 27}
+        - {x: -35.5, y: 24}
+        - {x: -37.5, y: 24}
+        - {x: -40.5, y: 22}
+        - {x: -43.5, y: 21}
+        - {x: -45.5, y: 18}
+        - {x: -44.5, y: 15}
+        - {x: -41.5, y: 15}
+        - {x: -45.5, y: 12}
+        - {x: -44.5, y: 9}
+        - {x: -40.5, y: 9}
+        - {x: -39.5, y: 10}
+        - {x: -37.5, y: 10}
+        - {x: -34.5, y: 12}
+        - {x: -29.5, y: 15}
+        - {x: -29.5, y: -33}
+        - {x: -34.5, y: -30}
+        - {x: -37.5, y: -28}
+        - {x: -43.5, y: -27}
+        - {x: -45.5, y: -30}
+        - {x: -43.5, y: -33}
+        - {x: -38.5, y: -35}
+        - {x: -36.5, y: -35}
+        - {x: -35.5, y: -37}
+        - {x: -29.5, y: -40}
+        - {x: -29.5, y: -45}
+        - {x: -30.5, y: -46}
+        - {x: -32.5, y: -46}
+        - {x: -35.5, y: -48}
+        - {x: -40.5, y: -51}
+        - {x: -42.5, y: -51}
+        - {x: -45.5, y: -54}
+        - {x: -45.5, y: -55}
+        - {x: -42.5, y: -58}
+        - {x: -18.5, y: -46}
+        - {x: -16.5, y: -46}
+        - {x: -15.5, y: -45}
+        - {x: -13.5, y: -45}
+      - - {x: -23.5, y: 17}
+        - {x: -21.5, y: 17}
+        - {x: -20.5, y: 18}
+        - {x: -21.5, y: -20}
+        - {x: -22.5, y: -19}
+        - {x: -25.5, y: -22}
+        - {x: -24.5, y: -26}
+        - {x: -25.5, y: -27}
+        - {x: -24.5, y: -30}
+        - {x: -25.5, y: -31}
+        - {x: -24.5, y: -34}
+        - {x: -23.5, y: -34}
+      - - {x: -3.5, y: -28}
+        - {x: -4.5, y: -24}
+        - {x: -4.5, y: -23}
+        - {x: 0.5, y: -26}
+        - {x: 3.5, y: -28}
+        - {x: 4.5, y: -28}
+        - {x: 4.5, y: -27}
+        - {x: 3.5, y: -27}
+        - {x: -2.5, y: -31}
+        - {x: -4.5, y: -31}
+        - {x: -5.5, y: -33}
+        - {x: -3.5, y: -32}
+      - - {x: -6.5, y: 52}
+        - {x: -7.5, y: 52}
+        - {x: -10.5, y: 49}
+        - {x: -10.5, y: 42}
+        - {x: -7.5, y: 39}
+        - {x: -6.5, y: 39}
+        - {x: -2.5, y: 43}
+        - {x: -3.5, y: 46}
+        - {x: -2.5, y: 48}
+      - - {x: -35.5, y: 56}
+        - {x: -39.5, y: 56}
+        - {x: -41.5, y: 54}
+        - {x: -40.5, y: 50}
+        - {x: -41.5, y: 48}
+        - {x: -38.5, y: 45}
+        - {x: -36.5, y: 45}
+        - {x: -33.5, y: 48}
+        - {x: -33.5, y: 54}
+      - - {x: 5.5, y: 56}
+        - {x: 1.5, y: 56}
+        - {x: -0.5, y: 54}
+        - {x: 0.5, y: 50}
+        - {x: -0.5, y: 48}
+        - {x: 2.5, y: 45}
+        - {x: 4.5, y: 45}
+        - {x: 7.5, y: 48}
+        - {x: 7.5, y: 54}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 564f02a6b3122ba20800000000000000
+      internalID: 3076558034514801765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_12
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 394
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11.5, y: -52.5}
+        - {x: 1.5, y: -47.5}
+        - {x: -1.5, y: -45.5}
+        - {x: -3.5, y: -45.5}
+        - {x: -4.5, y: -44.5}
+        - {x: -1.5, y: -44.5}
+        - {x: 2.5, y: -41.5}
+        - {x: 6.5, y: -41.5}
+        - {x: 11.5, y: -39.5}
+        - {x: 11.5, y: -36.5}
+        - {x: 12.5, y: -36.5}
+        - {x: 13.5, y: -35.5}
+        - {x: 18.5, y: -35.5}
+        - {x: 20.5, y: -34.5}
+        - {x: 21.5, y: -35.5}
+        - {x: 23.5, y: -35.5}
+        - {x: 34.5, y: -41.5}
+        - {x: 37.5, y: -43.5}
+        - {x: 39.5, y: -43.5}
+        - {x: 43.5, y: -45.5}
+        - {x: 44.5, y: -44.5}
+        - {x: 46.5, y: -44.5}
+        - {x: 46.5, y: -36.5}
+        - {x: 44.5, y: -37.5}
+        - {x: 41.5, y: -37.5}
+        - {x: 37.5, y: -35.5}
+        - {x: 41.5, y: -33.5}
+        - {x: 40.5, y: -30.5}
+        - {x: 34.5, y: -30.5}
+        - {x: 32.5, y: -32.5}
+        - {x: 31.5, y: -32.5}
+        - {x: 29.5, y: -31.5}
+        - {x: 30.5, y: -27.5}
+        - {x: 32.5, y: -26.5}
+        - {x: 33.5, y: -25.5}
+        - {x: 37.5, y: -25.5}
+        - {x: 41.5, y: -23.5}
+        - {x: 42.5, y: -21.5}
+        - {x: 43.5, y: -20.5}
+        - {x: 46.5, y: -20.5}
+        - {x: 46.5, y: -15.5}
+        - {x: 41.5, y: -16.5}
+        - {x: 37.5, y: -18.5}
+        - {x: 36.5, y: -20.5}
+        - {x: 33.5, y: -20.5}
+        - {x: 24.5, y: -26.5}
+        - {x: 24.5, y: -28.5}
+        - {x: 22.5, y: -25.5}
+        - {x: 21.5, y: -25.5}
+        - {x: 19.5, y: -28.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 15.5, y: -29.5}
+        - {x: 11.5, y: -30.5}
+        - {x: 9.5, y: -26.5}
+        - {x: 3.5, y: -27.5}
+        - {x: 0.5, y: -29.5}
+        - {x: -4.5, y: -32.5}
+        - {x: -4.5, y: 15.5}
+        - {x: 0.5, y: 12.5}
+        - {x: 3.5, y: 10.5}
+        - {x: 9.5, y: 9.5}
+        - {x: 11.5, y: 12.5}
+        - {x: 9.5, y: 15.5}
+        - {x: 7.5, y: 15.5}
+        - {x: 11.5, y: 16.5}
+        - {x: 11.5, y: 18.5}
+        - {x: 9.5, y: 21.5}
+        - {x: -4.5, y: 27.5}
+        - {x: -3.5, y: 28.5}
+        - {x: -1.5, y: 28.5}
+        - {x: -0.5, y: 29.5}
+        - {x: -0.5, y: 27.5}
+        - {x: 2.5, y: 24.5}
+        - {x: 4.5, y: 24.5}
+        - {x: 7.5, y: 27.5}
+        - {x: 7.5, y: 29.5}
+        - {x: 6.5, y: 30.5}
+        - {x: 8.5, y: 33.5}
+        - {x: 11.5, y: 36.5}
+        - {x: 11.5, y: 37.5}
+        - {x: 8.5, y: 40.5}
+        - {x: 11.5, y: 42.5}
+        - {x: 11.5, y: 43.5}
+        - {x: 8.5, y: 46.5}
+        - {x: 7.5, y: 46.5}
+        - {x: -4.5, y: 40.5}
+        - {x: -4.5, y: 41.5}
+        - {x: -2.5, y: 43.5}
+        - {x: -2.5, y: 44.5}
+        - {x: -3.5, y: 45.5}
+        - {x: -2.5, y: 48.5}
+        - {x: -6.5, y: 52.5}
+        - {x: -7.5, y: 52.5}
+        - {x: -10.5, y: 49.5}
+        - {x: -10.5, y: 47.5}
+        - {x: -9.5, y: 46.5}
+        - {x: -10.5, y: 42.5}
+        - {x: -9.5, y: 40.5}
+        - {x: -10.5, y: 39.5}
+        - {x: -10.5, y: 37.5}
+        - {x: -11.5, y: 36.5}
+        - {x: -11.5, y: 38.5}
+        - {x: -14.5, y: 41.5}
+        - {x: -14.5, y: 45.5}
+        - {x: -15.5, y: 47.5}
+        - {x: -14.5, y: 48.5}
+        - {x: -14.5, y: 50.5}
+        - {x: -16.5, y: 52.5}
+        - {x: -19.5, y: 51.5}
+        - {x: -19.5, y: 48.5}
+        - {x: -18.5, y: 46.5}
+        - {x: -19.5, y: 45.5}
+        - {x: -19.5, y: 42.5}
+        - {x: -22.5, y: 38.5}
+        - {x: -22.5, y: 35.5}
+        - {x: -21.5, y: 34.5}
+        - {x: -21.5, y: 31.5}
+        - {x: -22.5, y: 31.5}
+        - {x: -25.5, y: 29.5}
+        - {x: -27.5, y: 29.5}
+        - {x: -30.5, y: 27.5}
+        - {x: -43.5, y: 21.5}
+        - {x: -45.5, y: 18.5}
+        - {x: -44.5, y: 15.5}
+        - {x: -41.5, y: 15.5}
+        - {x: -45.5, y: 12.5}
+        - {x: -44.5, y: 9.5}
+        - {x: -40.5, y: 9.5}
+        - {x: -20.5, y: 19.5}
+        - {x: -20.5, y: -40.5}
+        - {x: -22.5, y: -40.5}
+        - {x: -24.5, y: -42.5}
+        - {x: -27.5, y: -42.5}
+        - {x: -30.5, y: -45.5}
+        - {x: -32.5, y: -45.5}
+        - {x: -35.5, y: -47.5}
+        - {x: -45.5, y: -52.5}
+        - {x: -45.5, y: -54.5}
+        - {x: -42.5, y: -57.5}
+        - {x: -18.5, y: -45.5}
+        - {x: -15.5, y: -45.5}
+        - {x: 8.5, y: -57.5}
+        - {x: 11.5, y: -54.5}
+      - - {x: -12.5, y: 18.5}
+        - {x: -10.5, y: 16.5}
+        - {x: -10.5, y: -34.5}
+        - {x: -12.5, y: -34.5}
+        - {x: -13.5, y: -35.5}
+        - {x: -12.5, y: -35.5}
+      - - {x: -38.5, y: 36.5}
+        - {x: -41.5, y: 33.5}
+        - {x: -41.5, y: 27.5}
+        - {x: -38.5, y: 24.5}
+        - {x: -33.5, y: 27.5}
+        - {x: -34.5, y: 31.5}
+        - {x: -33.5, y: 33.5}
+        - {x: -36.5, y: 36.5}
+      - - {x: -23.5, y: 39.5}
+        - {x: -25.5, y: 41.5}
+        - {x: -28.5, y: 41.5}
+        - {x: -31.5, y: 38.5}
+        - {x: -30.5, y: 35.5}
+        - {x: -31.5, y: 34.5}
+        - {x: -31.5, y: 32.5}
+        - {x: -30.5, y: 30.5}
+        - {x: -27.5, y: 29.5}
+        - {x: -26.5, y: 29.5}
+        - {x: -23.5, y: 32.5}
+      - - {x: 5.5, y: 56.5}
+        - {x: 1.5, y: 56.5}
+        - {x: -0.5, y: 54.5}
+        - {x: 0.5, y: 50.5}
+        - {x: -0.5, y: 48.5}
+        - {x: 2.5, y: 45.5}
+        - {x: 4.5, y: 45.5}
+        - {x: 7.5, y: 48.5}
+        - {x: 7.5, y: 54.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d179ef1a8b78e0ea0800000000000000
+      internalID: -5904632834374592739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_13
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 394
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 6.5, y: -50}
+        - {x: 0.5, y: -47}
+        - {x: -0.5, y: -44}
+        - {x: 0.5, y: -43}
+        - {x: -0.5, y: -41}
+        - {x: 0.5, y: -40}
+        - {x: 2.5, y: -43}
+        - {x: 4.5, y: -43}
+        - {x: 5.5, y: -40}
+        - {x: 4.5, y: -39}
+        - {x: 5.5, y: -38}
+        - {x: 8.5, y: -38}
+        - {x: 11.5, y: -36}
+        - {x: 19.5, y: -34}
+        - {x: 20.5, y: -36}
+        - {x: 41.5, y: -46}
+        - {x: 43.5, y: -46}
+        - {x: 44.5, y: -45}
+        - {x: 46.5, y: -45}
+        - {x: 46.5, y: -37}
+        - {x: 41.5, y: -38}
+        - {x: 37.5, y: -36}
+        - {x: 41.5, y: -34}
+        - {x: 40.5, y: -31}
+        - {x: 36.5, y: -31}
+        - {x: 34.5, y: -34}
+        - {x: 29.5, y: -32}
+        - {x: 30.5, y: -29}
+        - {x: 29.5, y: -28}
+        - {x: 30.5, y: -28}
+        - {x: 33.5, y: -26}
+        - {x: 37.5, y: -26}
+        - {x: 41.5, y: -24}
+        - {x: 42.5, y: -22}
+        - {x: 43.5, y: -21}
+        - {x: 46.5, y: -21}
+        - {x: 46.5, y: -16}
+        - {x: 41.5, y: -17}
+        - {x: 37.5, y: -19}
+        - {x: 36.5, y: -21}
+        - {x: 33.5, y: -21}
+        - {x: 26.5, y: -24}
+        - {x: 23.5, y: -27}
+        - {x: 22.5, y: -26}
+        - {x: 19.5, y: -27}
+        - {x: 17.5, y: -26}
+        - {x: 19.5, y: -24}
+        - {x: 19.5, y: -23}
+        - {x: 17.5, y: -21}
+        - {x: 13.5, y: -21}
+        - {x: 11.5, y: -23}
+        - {x: 7.5, y: -21}
+        - {x: 11.5, y: -18}
+        - {x: 10.5, y: -15}
+        - {x: 6.5, y: -15}
+        - {x: 5.5, y: -16}
+        - {x: 3.5, y: -16}
+        - {x: 1.5, y: -18}
+        - {x: -1.5, y: -15}
+        - {x: -2.5, y: -15}
+        - {x: -4.5, y: -18}
+        - {x: -4.5, y: 15}
+        - {x: -2.5, y: 13}
+        - {x: -0.5, y: 13}
+        - {x: 3.5, y: 10}
+        - {x: 5.5, y: 10}
+        - {x: 7.5, y: 8}
+        - {x: 8.5, y: 8}
+        - {x: 10.5, y: 10}
+        - {x: 10.5, y: 13}
+        - {x: 9.5, y: 15}
+        - {x: 10.5, y: 16}
+        - {x: 10.5, y: 19}
+        - {x: 8.5, y: 21}
+        - {x: 6.5, y: 21}
+        - {x: 3.5, y: 24}
+        - {x: 0.5, y: 24}
+        - {x: -1.5, y: 26}
+        - {x: -3.5, y: 26}
+        - {x: -4.5, y: 27}
+        - {x: -3.5, y: 28}
+        - {x: -1.5, y: 28}
+        - {x: -0.5, y: 29}
+        - {x: -0.5, y: 27}
+        - {x: 2.5, y: 24}
+        - {x: 7.5, y: 27}
+        - {x: 6.5, y: 31}
+        - {x: 8.5, y: 33}
+        - {x: 10.5, y: 34}
+        - {x: 10.5, y: 38}
+        - {x: 9.5, y: 39}
+        - {x: 10.5, y: 41}
+        - {x: 10.5, y: 45}
+        - {x: 7.5, y: 46}
+        - {x: -4.5, y: 40}
+        - {x: -4.5, y: 41}
+        - {x: -2.5, y: 43}
+        - {x: -2.5, y: 44}
+        - {x: -3.5, y: 45}
+        - {x: -3.5, y: 49}
+        - {x: -6.5, y: 52}
+        - {x: -7.5, y: 52}
+        - {x: -10.5, y: 49}
+        - {x: -10.5, y: 46}
+        - {x: -9.5, y: 45}
+        - {x: -10.5, y: 44}
+        - {x: -10.5, y: 42}
+        - {x: -9.5, y: 40}
+        - {x: -10.5, y: 39}
+        - {x: -10.5, y: 37}
+        - {x: -11.5, y: 36}
+        - {x: -14.5, y: 41}
+        - {x: -14.5, y: 45}
+        - {x: -15.5, y: 47}
+        - {x: -14.5, y: 48}
+        - {x: -14.5, y: 50}
+        - {x: -16.5, y: 52}
+        - {x: -19.5, y: 51}
+        - {x: -19.5, y: 48}
+        - {x: -18.5, y: 47}
+        - {x: -19.5, y: 45}
+        - {x: -19.5, y: 42}
+        - {x: -23.5, y: 36}
+        - {x: -27.5, y: 39}
+        - {x: -29.5, y: 39}
+        - {x: -34.5, y: 42}
+        - {x: -37.5, y: 44}
+        - {x: -43.5, y: 45}
+        - {x: -45.5, y: 42}
+        - {x: -43.5, y: 40}
+        - {x: -45.5, y: 38}
+        - {x: -45.5, y: 36}
+        - {x: -42.5, y: 33}
+        - {x: -40.5, y: 33}
+        - {x: -38.5, y: 31}
+        - {x: -36.5, y: 31}
+        - {x: -32.5, y: 28}
+        - {x: -30.5, y: 28}
+        - {x: -28.5, y: 26}
+        - {x: -26.5, y: 26}
+        - {x: -22.5, y: 23}
+        - {x: -20.5, y: 23}
+        - {x: -20.5, y: -21}
+        - {x: -21.5, y: -23}
+        - {x: -20.5, y: -24}
+        - {x: -21.5, y: -27}
+        - {x: -20.5, y: -28}
+        - {x: -21.5, y: -31}
+        - {x: -20.5, y: -32}
+        - {x: -21.5, y: -36}
+        - {x: -20.5, y: -37}
+        - {x: -21.5, y: -37}
+        - {x: -26.5, y: -34}
+        - {x: -28.5, y: -34}
+        - {x: -29.5, y: -32}
+        - {x: -35.5, y: -29}
+        - {x: -35.5, y: -28}
+        - {x: -37.5, y: -26}
+        - {x: -41.5, y: -27}
+        - {x: -42.5, y: -26}
+        - {x: -45.5, y: -27}
+        - {x: -45.5, y: -30}
+        - {x: -43.5, y: -33}
+        - {x: -22.5, y: -43}
+        - {x: -18.5, y: -46}
+        - {x: -15.5, y: -46}
+        - {x: 7.5, y: -58}
+        - {x: 10.5, y: -57}
+        - {x: 10.5, y: -54}
+        - {x: 8.5, y: -52}
+        - {x: 7.5, y: -52}
+      - - {x: -9.5, y: -30}
+        - {x: -8.5, y: -29}
+        - {x: -8.5, y: -17}
+        - {x: -11.5, y: -14}
+        - {x: -12.5, y: -15}
+        - {x: -13.5, y: 16}
+        - {x: -12.5, y: 15}
+        - {x: -10.5, y: 16}
+        - {x: -10.5, y: -34}
+        - {x: -9.5, y: -35}
+        - {x: -8.5, y: -34}
+      - - {x: -3.5, y: -24}
+        - {x: -4.5, y: -24}
+        - {x: -5.5, y: -26}
+        - {x: -4.5, y: -27}
+        - {x: -5.5, y: -30}
+        - {x: -4.5, y: -32}
+        - {x: -3.5, y: -32}
+      - - {x: 0.5, y: -27}
+        - {x: 0.5, y: -26}
+        - {x: 4.5, y: -28}
+        - {x: 3.5, y: -27}
+        - {x: 0.5, y: -30}
+        - {x: 1.5, y: -30}
+      - - {x: -25.5, y: 51}
+        - {x: -29.5, y: 51}
+        - {x: -31.5, y: 49}
+        - {x: -30.5, y: 45}
+        - {x: -31.5, y: 44}
+        - {x: -31.5, y: 42}
+        - {x: -29.5, y: 40}
+        - {x: -25.5, y: 40}
+        - {x: -23.5, y: 42}
+        - {x: -23.5, y: 49}
+      - - {x: -34.5, y: 56}
+        - {x: -38.5, y: 57}
+        - {x: -41.5, y: 54}
+        - {x: -41.5, y: 52}
+        - {x: -40.5, y: 51}
+        - {x: -41.5, y: 47}
+        - {x: -38.5, y: 44}
+        - {x: -37.5, y: 44}
+        - {x: -33.5, y: 48}
+        - {x: -33.5, y: 54}
+      - - {x: 5.5, y: 56}
+        - {x: 1.5, y: 56}
+        - {x: -0.5, y: 54}
+        - {x: 0.5, y: 50}
+        - {x: -0.5, y: 49}
+        - {x: -0.5, y: 47}
+        - {x: 1.5, y: 45}
+        - {x: 4.5, y: 45}
+        - {x: 7.5, y: 48}
+        - {x: 7.5, y: 54}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f5051f72deeeab6a0800000000000000
+      internalID: -6432566415400546209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_14
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 394
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10.5, y: -55}
+        - {x: 10.5, y: -53}
+        - {x: 8.5, y: -51}
+        - {x: 7.5, y: -51}
+        - {x: 5.5, y: -48}
+        - {x: 3.5, y: -46}
+        - {x: 0.5, y: -47}
+        - {x: -0.5, y: -43}
+        - {x: 0.5, y: -42}
+        - {x: 1.5, y: -42}
+        - {x: 0.5, y: -44}
+        - {x: 2.5, y: -46}
+        - {x: 5.5, y: -44}
+        - {x: 4.5, y: -41}
+        - {x: 5.5, y: -40}
+        - {x: 9.5, y: -40}
+        - {x: 11.5, y: -38}
+        - {x: 11.5, y: -36}
+        - {x: 12.5, y: -36}
+        - {x: 15.5, y: -34}
+        - {x: 16.5, y: -35}
+        - {x: 20.5, y: -34}
+        - {x: 24.5, y: -36}
+        - {x: 25.5, y: -35}
+        - {x: 27.5, y: -38}
+        - {x: 29.5, y: -38}
+        - {x: 30.5, y: -40}
+        - {x: 43.5, y: -45}
+        - {x: 44.5, y: -44}
+        - {x: 46.5, y: -44}
+        - {x: 46.5, y: -37}
+        - {x: 45.5, y: -36}
+        - {x: 41.5, y: -37}
+        - {x: 37.5, y: -35}
+        - {x: 41.5, y: -33}
+        - {x: 40.5, y: -30}
+        - {x: 35.5, y: -30}
+        - {x: 33.5, y: -33}
+        - {x: 30.5, y: -31}
+        - {x: 28.5, y: -30}
+        - {x: 30.5, y: -28}
+        - {x: 30.5, y: -27}
+        - {x: 28.5, y: -25}
+        - {x: 25.5, y: -25}
+        - {x: 24.5, y: -26}
+        - {x: 23.5, y: -25}
+        - {x: 19.5, y: -26}
+        - {x: 17.5, y: -25}
+        - {x: 19.5, y: -23}
+        - {x: 19.5, y: -22}
+        - {x: 17.5, y: -20}
+        - {x: 13.5, y: -20}
+        - {x: 11.5, y: -22}
+        - {x: 7.5, y: -20}
+        - {x: 11.5, y: -17}
+        - {x: 10.5, y: -14}
+        - {x: 6.5, y: -14}
+        - {x: 5.5, y: -15}
+        - {x: 3.5, y: -15}
+        - {x: 1.5, y: -17}
+        - {x: -1.5, y: -14}
+        - {x: -2.5, y: -14}
+        - {x: -4.5, y: -16}
+        - {x: -4.5, y: 16}
+        - {x: -2.5, y: 14}
+        - {x: -0.5, y: 14}
+        - {x: 3.5, y: 11}
+        - {x: 5.5, y: 11}
+        - {x: 7.5, y: 9}
+        - {x: 8.5, y: 9}
+        - {x: 10.5, y: 11}
+        - {x: 10.5, y: 14}
+        - {x: 9.5, y: 16}
+        - {x: 10.5, y: 17}
+        - {x: 10.5, y: 19}
+        - {x: 7.5, y: 22}
+        - {x: 6.5, y: 22}
+        - {x: 3.5, y: 25}
+        - {x: 0.5, y: 25}
+        - {x: -2.5, y: 27}
+        - {x: -4.5, y: 28}
+        - {x: -4.5, y: 32}
+        - {x: -3.5, y: 33}
+        - {x: -3.5, y: 35}
+        - {x: -4.5, y: 36}
+        - {x: -3.5, y: 37}
+        - {x: -3.5, y: 40}
+        - {x: -5.5, y: 42}
+        - {x: -8.5, y: 42}
+        - {x: -10.5, y: 40}
+        - {x: -10.5, y: 37}
+        - {x: -9.5, y: 36}
+        - {x: -10.5, y: 35}
+        - {x: -9.5, y: 30}
+        - {x: -13.5, y: 32}
+        - {x: -12.5, y: 33}
+        - {x: -11.5, y: 38}
+        - {x: -14.5, y: 42}
+        - {x: -14.5, y: 46}
+        - {x: -15.5, y: 48}
+        - {x: -14.5, y: 49}
+        - {x: -14.5, y: 51}
+        - {x: -16.5, y: 53}
+        - {x: -19.5, y: 52}
+        - {x: -19.5, y: 49}
+        - {x: -18.5, y: 48}
+        - {x: -19.5, y: 46}
+        - {x: -19.5, y: 43}
+        - {x: -23.5, y: 37}
+        - {x: -23.5, y: 39}
+        - {x: -25.5, y: 41}
+        - {x: -23.5, y: 43}
+        - {x: -23.5, y: 45}
+        - {x: -24.5, y: 46}
+        - {x: -23.5, y: 50}
+        - {x: -25.5, y: 52}
+        - {x: -29.5, y: 52}
+        - {x: -31.5, y: 50}
+        - {x: -30.5, y: 46}
+        - {x: -31.5, y: 44}
+        - {x: -29.5, y: 42}
+        - {x: -29.5, y: 41}
+        - {x: -31.5, y: 41}
+        - {x: -37.5, y: 45}
+        - {x: -39.5, y: 45}
+        - {x: -43.5, y: 47}
+        - {x: -45.5, y: 45}
+        - {x: -45.5, y: 43}
+        - {x: -44.5, y: 41}
+        - {x: -42.5, y: 41}
+        - {x: -45.5, y: 39}
+        - {x: -45.5, y: 37}
+        - {x: -43.5, y: 35}
+        - {x: -42.5, y: 35}
+        - {x: -41.5, y: 34}
+        - {x: -41.5, y: 32}
+        - {x: -40.5, y: 31}
+        - {x: -41.5, y: 30}
+        - {x: -41.5, y: 28}
+        - {x: -38.5, y: 25}
+        - {x: -33.5, y: 27}
+        - {x: -33.5, y: 30}
+        - {x: -32.5, y: 29}
+        - {x: -30.5, y: 29}
+        - {x: -29.5, y: 28}
+        - {x: -45.5, y: 21}
+        - {x: -45.5, y: 17}
+        - {x: -44.5, y: 15}
+        - {x: -45.5, y: 14}
+        - {x: -45.5, y: 11}
+        - {x: -43.5, y: 9}
+        - {x: -39.5, y: 11}
+        - {x: -37.5, y: 11}
+        - {x: -34.5, y: 13}
+        - {x: -29.5, y: 16}
+        - {x: -27.5, y: 16}
+        - {x: -24.5, y: 18}
+        - {x: -20.5, y: 20}
+        - {x: -20.5, y: -20}
+        - {x: -21.5, y: -22}
+        - {x: -20.5, y: -23}
+        - {x: -21.5, y: -26}
+        - {x: -20.5, y: -27}
+        - {x: -21.5, y: -31}
+        - {x: -20.5, y: -32}
+        - {x: -21.5, y: -33}
+        - {x: -21.5, y: -35}
+        - {x: -20.5, y: -36}
+        - {x: -21.5, y: -36}
+        - {x: -26.5, y: -33}
+        - {x: -28.5, y: -33}
+        - {x: -29.5, y: -31}
+        - {x: -35.5, y: -28}
+        - {x: -35.5, y: -27}
+        - {x: -37.5, y: -25}
+        - {x: -41.5, y: -26}
+        - {x: -42.5, y: -25}
+        - {x: -45.5, y: -26}
+        - {x: -45.5, y: -30}
+        - {x: -43.5, y: -32}
+        - {x: -41.5, y: -32}
+        - {x: -30.5, y: -38}
+        - {x: -27.5, y: -40}
+        - {x: -25.5, y: -40}
+        - {x: -23.5, y: -41}
+        - {x: -25.5, y: -42}
+        - {x: -30.5, y: -45}
+        - {x: -32.5, y: -45}
+        - {x: -34.5, y: -47}
+        - {x: -38.5, y: -48}
+        - {x: -41.5, y: -50}
+        - {x: -45.5, y: -52}
+        - {x: -45.5, y: -55}
+        - {x: -43.5, y: -57}
+        - {x: -41.5, y: -57}
+        - {x: -18.5, y: -45}
+        - {x: -15.5, y: -45}
+        - {x: 8.5, y: -57}
+      - - {x: -9.5, y: -34}
+        - {x: -8.5, y: -33}
+        - {x: -8.5, y: -22}
+        - {x: -9.5, y: -21}
+        - {x: -8.5, y: -20}
+        - {x: -8.5, y: -16}
+        - {x: -11.5, y: -13}
+        - {x: -12.5, y: -14}
+        - {x: -13.5, y: 17}
+        - {x: -12.5, y: 16}
+        - {x: -10.5, y: 17}
+        - {x: -9.5, y: -37}
+        - {x: -8.5, y: -36}
+      - - {x: -3.5, y: -23}
+        - {x: -4.5, y: -23}
+        - {x: -5.5, y: -25}
+        - {x: -4.5, y: -26}
+        - {x: -5.5, y: -29}
+        - {x: -5.5, y: -33}
+        - {x: -4.5, y: -34}
+        - {x: -3.5, y: -34}
+      - - {x: 0.5, y: -30}
+        - {x: 1.5, y: -29}
+        - {x: 0.5, y: -26}
+        - {x: 1.5, y: -25}
+        - {x: 0.5, y: -24}
+        - {x: 0.5, y: -25}
+        - {x: -0.5, y: -27}
+        - {x: 2.5, y: -30}
+        - {x: 6.5, y: -28}
+        - {x: 7.5, y: -29}
+        - {x: 9.5, y: -29}
+        - {x: 10.5, y: -30}
+        - {x: 8.5, y: -29}
+        - {x: 6.5, y: -31}
+        - {x: 3.5, y: -28}
+        - {x: 2.5, y: -28}
+        - {x: -0.5, y: -31}
+        - {x: -0.5, y: -32}
+        - {x: 0.5, y: -33}
+        - {x: 1.5, y: -33}
+      - - {x: 2.5, y: 37}
+        - {x: -0.5, y: 34}
+        - {x: -0.5, y: 28}
+        - {x: 2.5, y: 25}
+        - {x: 7.5, y: 28}
+        - {x: 6.5, y: 32}
+        - {x: 7.5, y: 34}
+        - {x: 4.5, y: 37}
+      - - {x: -34.5, y: 57}
+        - {x: -38.5, y: 58}
+        - {x: -41.5, y: 55}
+        - {x: -41.5, y: 53}
+        - {x: -40.5, y: 52}
+        - {x: -41.5, y: 48}
+        - {x: -39.5, y: 46}
+        - {x: -36.5, y: 46}
+        - {x: -33.5, y: 49}
+        - {x: -33.5, y: 55}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f0715d343b6a73250800000000000000
+      internalID: 5924387123696572175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 279
+        width: 58
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -12, y: -45.5}
+        - {x: -11, y: -44.5}
+        - {x: -9, y: -44.5}
+        - {x: -8, y: -43.5}
+        - {x: -6, y: -43.5}
+        - {x: -5, y: -42.5}
+        - {x: -3, y: -42.5}
+        - {x: -2, y: -41.5}
+        - {x: 0, y: -41.5}
+        - {x: 1, y: -40.5}
+        - {x: 3, y: -40.5}
+        - {x: 4, y: -39.5}
+        - {x: 6, y: -39.5}
+        - {x: 7, y: -38.5}
+        - {x: 9, y: -38.5}
+        - {x: 10, y: -37.5}
+        - {x: 12, y: -37.5}
+        - {x: 17, y: -34.5}
+        - {x: 16, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 11, y: -32.5}
+        - {x: 9, y: -32.5}
+        - {x: 8, y: -33.5}
+        - {x: 6, y: -33.5}
+        - {x: 5, y: -34.5}
+        - {x: 3, y: -34.5}
+        - {x: 2, y: -35.5}
+        - {x: 0, y: -35.5}
+        - {x: -1, y: -36.5}
+        - {x: -3, y: -36.5}
+        - {x: -4, y: -37.5}
+        - {x: -6, y: -37.5}
+        - {x: -7, y: -38.5}
+        - {x: -9, y: -38.5}
+        - {x: -10, y: -39.5}
+        - {x: -12, y: -39.5}
+        - {x: -13, y: -40.5}
+        - {x: -15, y: -40.5}
+        - {x: -19, y: -42.5}
+        - {x: -19, y: 27.5}
+        - {x: -17, y: 29.5}
+        - {x: -17, y: 34.5}
+        - {x: -20, y: 38.5}
+        - {x: -20, y: 46.5}
+        - {x: -22, y: 48.5}
+        - {x: -25, y: 47.5}
+        - {x: -25, y: 44.5}
+        - {x: -24, y: 43.5}
+        - {x: -25, y: 42.5}
+        - {x: -25, y: 38.5}
+        - {x: -28, y: 34.5}
+        - {x: -28, y: 31.5}
+        - {x: -26, y: 27.5}
+        - {x: -26, y: -46.5}
+        - {x: -24, y: -48.5}
+        - {x: -20, y: -48.5}
+        - {x: -17, y: -46.5}
+        - {x: -15, y: -46.5}
+        - {x: -14, y: -45.5}
+      - - {x: 17, y: -28.5}
+        - {x: 16, y: -31.5}
+        - {x: 19, y: -35.5}
+        - {x: 22, y: -35.5}
+        - {x: 25, y: -32.5}
+        - {x: 24, y: -29.5}
+        - {x: 21, y: -28.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 9ca357ef56a48f170800000000000000
+      internalID: 8212395722431347401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_16
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 266
+        width: 115
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11.5, y: -50}
+        - {x: 14.5, y: -48}
+        - {x: 15.5, y: -49}
+        - {x: 18.5, y: -49}
+        - {x: 23.5, y: -46}
+        - {x: 25.5, y: -46}
+        - {x: 32.5, y: -42}
+        - {x: 34.5, y: -42}
+        - {x: 43.5, y: -37}
+        - {x: 45.5, y: -37}
+        - {x: 50.5, y: -35}
+        - {x: 52.5, y: -32}
+        - {x: 53.5, y: -32}
+        - {x: 57.5, y: -29}
+        - {x: 57.5, y: -25}
+        - {x: 54.5, y: -25}
+        - {x: 53.5, y: -23}
+        - {x: 48.5, y: -21}
+        - {x: 46.5, y: -21}
+        - {x: 45.5, y: -19}
+        - {x: 19.5, y: -6}
+        - {x: 19.5, y: -5}
+        - {x: 17.5, y: 0}
+        - {x: 15.5, y: 0}
+        - {x: 14.5, y: 2}
+        - {x: 16.5, y: 5}
+        - {x: 16.5, y: 7}
+        - {x: 18.5, y: 10}
+        - {x: 19.5, y: 12}
+        - {x: 20.5, y: 12}
+        - {x: 22.5, y: 14}
+        - {x: 24.5, y: 14}
+        - {x: 27.5, y: 12}
+        - {x: 29.5, y: 12}
+        - {x: 31.5, y: 14}
+        - {x: 31.5, y: 16}
+        - {x: 29.5, y: 18}
+        - {x: 28.5, y: 18}
+        - {x: 23.5, y: 22}
+        - {x: 20.5, y: 23}
+        - {x: 13.5, y: 29}
+        - {x: -25.5, y: 48}
+        - {x: -30.5, y: 51}
+        - {x: -32.5, y: 51}
+        - {x: -33.5, y: 52}
+        - {x: -39.5, y: 52}
+        - {x: -42.5, y: 47}
+        - {x: -44.5, y: 45}
+        - {x: -45.5, y: 42}
+        - {x: -47.5, y: 40}
+        - {x: -48.5, y: 37}
+        - {x: -50.5, y: 35}
+        - {x: -53.5, y: 29}
+        - {x: -55.5, y: 27}
+        - {x: -56.5, y: 24}
+        - {x: -57.5, y: 22}
+        - {x: -57.5, y: 17}
+        - {x: -42.5, y: 9}
+        - {x: -40.5, y: 8}
+        - {x: -40.5, y: 1}
+        - {x: -48.5, y: -7}
+        - {x: -49.5, y: -19}
+        - {x: -50.5, y: -20}
+        - {x: -50.5, y: -26}
+        - {x: -51.5, y: -27}
+        - {x: -51.5, y: -33}
+        - {x: -50.5, y: -34}
+        - {x: -48.5, y: -42}
+        - {x: -44.5, y: -46}
+        - {x: -40.5, y: -47}
+        - {x: -39.5, y: -49}
+        - {x: -32.5, y: -52}
+        - {x: 2.5, y: -52}
+        - {x: 3.5, y: -51}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b73d04e628e2a6850800000000000000
+      internalID: 6370955760599356283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_17
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 278
+        width: 94
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -45.5}
+        - {x: 8, y: -44.5}
+        - {x: 7, y: -41.5}
+        - {x: 5, y: -41.5}
+        - {x: 6, y: -40.5}
+        - {x: 8, y: -40.5}
+        - {x: 12, y: -37.5}
+        - {x: 12, y: -35.5}
+        - {x: 9, y: -34.5}
+        - {x: 2, y: -38.5}
+        - {x: 3, y: -40.5}
+        - {x: 2, y: -41.5}
+        - {x: -1, y: -38.5}
+        - {x: -3, y: -38.5}
+        - {x: -3, y: 43.5}
+        - {x: -1, y: 45.5}
+        - {x: -1, y: 48.5}
+        - {x: -3, y: 51.5}
+        - {x: -6, y: 52.5}
+        - {x: -14, y: 52.5}
+        - {x: -15, y: 51.5}
+        - {x: -17, y: 51.5}
+        - {x: -20, y: 48.5}
+        - {x: -20, y: 46.5}
+        - {x: -18, y: 44.5}
+        - {x: -18, y: 42.5}
+        - {x: -43, y: 29.5}
+        - {x: -43, y: 22.5}
+        - {x: -41, y: 20.5}
+        - {x: -41, y: 16.5}
+        - {x: -46, y: 13.5}
+        - {x: -46, y: 12.5}
+        - {x: -47, y: 11.5}
+        - {x: -47, y: 2.5}
+        - {x: -46, y: 0.5}
+        - {x: -46, y: -2.5}
+        - {x: -44, y: -5.5}
+        - {x: -39, y: -7.5}
+        - {x: -37, y: -7.5}
+        - {x: -36, y: -6.5}
+        - {x: -34, y: -6.5}
+        - {x: -29, y: -1.5}
+        - {x: -29, y: 0.5}
+        - {x: -28, y: 1.5}
+        - {x: -28, y: 5.5}
+        - {x: -27, y: 6.5}
+        - {x: -27, y: 9.5}
+        - {x: -28, y: 12.5}
+        - {x: -33, y: 16.5}
+        - {x: -33, y: 20.5}
+        - {x: -28, y: 23.5}
+        - {x: -24, y: 20.5}
+        - {x: -23, y: 20.5}
+        - {x: -18, y: 16.5}
+        - {x: -18, y: -44.5}
+        - {x: -14, y: -48.5}
+        - {x: -14, y: -50.5}
+        - {x: -13, y: -52.5}
+        - {x: 1, y: -52.5}
+        - {x: 3, y: -50.5}
+        - {x: 5, y: -50.5}
+        - {x: 8, y: -47.5}
+      - - {x: 8, y: -43.5}
+        - {x: 9, y: -46.5}
+        - {x: 12, y: -46.5}
+        - {x: 17, y: -42.5}
+        - {x: 17, y: -40.5}
+        - {x: 14, y: -39.5}
+      - - {x: 20, y: -41.5}
+        - {x: 25, y: -39.5}
+        - {x: 25, y: -36.5}
+        - {x: 22, y: -35.5}
+        - {x: 18, y: -38.5}
+      - - {x: 29, y: -29.5}
+        - {x: 30, y: -31.5}
+        - {x: 26, y: -34.5}
+        - {x: 28, y: -37.5}
+        - {x: 33, y: -34.5}
+        - {x: 36, y: -29.5}
+        - {x: 36, y: -27.5}
+        - {x: 33, y: -26.5}
+      - - {x: 19, y: -36.5}
+        - {x: 24, y: -34.5}
+        - {x: 24, y: -31.5}
+        - {x: 21, y: -30.5}
+        - {x: 17, y: -33.5}
+      - - {x: 39, y: -30.5}
+        - {x: 41, y: -33.5}
+        - {x: 45, y: -32.5}
+        - {x: 47, y: -29.5}
+        - {x: 47, y: -27.5}
+        - {x: 44, y: -26.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 747f3080982e55500800000000000000
+      internalID: 384462421382920007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_18
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 271
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 35, y: -14}
+        - {x: 35, y: -12}
+        - {x: 34, y: -10}
+        - {x: 31, y: -9}
+        - {x: 29, y: -6}
+        - {x: 29, y: -1}
+        - {x: 26, y: 3}
+        - {x: -1, y: 16}
+        - {x: -3, y: 16}
+        - {x: -10, y: 20}
+        - {x: -12, y: 20}
+        - {x: -13, y: 21}
+        - {x: -22, y: 21}
+        - {x: -23, y: 20}
+        - {x: -28, y: 19}
+        - {x: -35, y: 15}
+        - {x: -35, y: 10}
+        - {x: -33, y: 5}
+        - {x: -31, y: 3}
+        - {x: -29, y: -1}
+        - {x: -26, y: -3}
+        - {x: -27, y: -4}
+        - {x: -26, y: -7}
+        - {x: -23, y: -8}
+        - {x: -19, y: -8}
+        - {x: -18, y: -7}
+        - {x: -14, y: -8}
+        - {x: -12, y: -10}
+        - {x: -8, y: -11}
+        - {x: 0, y: -16}
+        - {x: 0, y: -18}
+        - {x: 3, y: -21}
+        - {x: 8, y: -21}
+        - {x: 10, y: -20}
+        - {x: 11, y: -21}
+        - {x: 25, y: -21}
+        - {x: 28, y: -20}
+        - {x: 30, y: -18}
+        - {x: 33, y: -17}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2b48679bbb2f6a610800000000000000
+      internalID: 1632258803052741810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_19
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 263
+        width: 86
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 40, y: -27.5}
+        - {x: 42, y: -25.5}
+        - {x: 42, y: -23.5}
+        - {x: 37, y: -21.5}
+        - {x: 35, y: -23.5}
+        - {x: 36, y: -26.5}
+        - {x: 38, y: -26.5}
+        - {x: 36, y: -27.5}
+        - {x: 34, y: -25.5}
+        - {x: 35, y: -24.5}
+        - {x: 33, y: -21.5}
+        - {x: 31, y: -22.5}
+        - {x: 30, y: -21.5}
+        - {x: 30, y: -17.5}
+        - {x: 29, y: -16.5}
+        - {x: 29, y: -12.5}
+        - {x: 28, y: -11.5}
+        - {x: 28, y: -8.5}
+        - {x: 27, y: -7.5}
+        - {x: 26, y: 1.5}
+        - {x: 25, y: 2.5}
+        - {x: 25, y: 5.5}
+        - {x: 22, y: 8.5}
+        - {x: 20, y: 8.5}
+        - {x: 19, y: 9.5}
+        - {x: 14, y: 9.5}
+        - {x: 11, y: 6.5}
+        - {x: 11, y: 4.5}
+        - {x: 12, y: 3.5}
+        - {x: 12, y: 0.5}
+        - {x: 13, y: -0.5}
+        - {x: 14, y: -7.5}
+        - {x: 16, y: -11.5}
+        - {x: 17, y: -19.5}
+        - {x: 11, y: -13.5}
+        - {x: 10, y: -13.5}
+        - {x: 5, y: -8.5}
+        - {x: 4, y: -8.5}
+        - {x: -20, y: 15.5}
+        - {x: -20, y: 16.5}
+        - {x: -25, y: 21.5}
+        - {x: -26, y: 35.5}
+        - {x: -28, y: 37.5}
+        - {x: -29, y: 37.5}
+        - {x: -31, y: 39.5}
+        - {x: -38, y: 39.5}
+        - {x: -40, y: 36.5}
+        - {x: -41, y: 36.5}
+        - {x: -43, y: 34.5}
+        - {x: -43, y: 23.5}
+        - {x: -38, y: 18.5}
+        - {x: -38, y: -5.5}
+        - {x: -37, y: -7.5}
+        - {x: -30, y: -10.5}
+        - {x: -27, y: -10.5}
+        - {x: -20, y: -6.5}
+        - {x: -16, y: -10.5}
+        - {x: -15, y: -10.5}
+        - {x: -8, y: -17.5}
+        - {x: -7, y: -17.5}
+        - {x: -5, y: -20.5}
+        - {x: -1, y: -22.5}
+        - {x: 2, y: -25.5}
+        - {x: 5, y: -26.5}
+        - {x: 8, y: -29.5}
+        - {x: 12, y: -31.5}
+        - {x: 16, y: -34.5}
+        - {x: 17, y: -34.5}
+        - {x: 23, y: -39.5}
+        - {x: 34, y: -39.5}
+        - {x: 35, y: -38.5}
+        - {x: 34, y: -35.5}
+        - {x: 41, y: -29.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: b8f28926afada3fd0800000000000000
+      internalID: -2361334285671583861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_20
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 263
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 44.5, y: -36.5}
+        - {x: 45.5, y: -37.5}
+        - {x: 47.5, y: -37.5}
+        - {x: 49.5, y: -35.5}
+        - {x: 48.5, y: -32.5}
+        - {x: 44.5, y: -31.5}
+        - {x: 47.5, y: -29.5}
+        - {x: 47.5, y: -27.5}
+        - {x: 45.5, y: -25.5}
+        - {x: 43.5, y: -25.5}
+        - {x: 42.5, y: -24.5}
+        - {x: 38.5, y: -24.5}
+        - {x: 34.5, y: -26.5}
+        - {x: 32.5, y: -25.5}
+        - {x: 32.5, y: -23.5}
+        - {x: 30.5, y: -20.5}
+        - {x: 28.5, y: -19.5}
+        - {x: 28.5, y: -15.5}
+        - {x: 31.5, y: -12.5}
+        - {x: 31.5, y: -10.5}
+        - {x: 32.5, y: -9.5}
+        - {x: 32.5, y: -5.5}
+        - {x: 28.5, y: -2.5}
+        - {x: 28.5, y: 5.5}
+        - {x: 27.5, y: 7.5}
+        - {x: 20.5, y: 10.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 14.5, y: 8.5}
+        - {x: 14.5, y: 2.5}
+        - {x: 6.5, y: 6.5}
+        - {x: 4.5, y: 6.5}
+        - {x: 1.5, y: 8.5}
+        - {x: -0.5, y: 8.5}
+        - {x: -5.5, y: 11.5}
+        - {x: -7.5, y: 11.5}
+        - {x: -24.5, y: 20.5}
+        - {x: -29.5, y: 23.5}
+        - {x: -29.5, y: 34.5}
+        - {x: -32.5, y: 38.5}
+        - {x: -35.5, y: 39.5}
+        - {x: -42.5, y: 39.5}
+        - {x: -43.5, y: 38.5}
+        - {x: -43.5, y: 33.5}
+        - {x: -42.5, y: 32.5}
+        - {x: -42.5, y: 29.5}
+        - {x: -43.5, y: 30.5}
+        - {x: -47.5, y: 30.5}
+        - {x: -49.5, y: 28.5}
+        - {x: -49.5, y: 21.5}
+        - {x: -47.5, y: 19.5}
+        - {x: -46.5, y: 19.5}
+        - {x: -45.5, y: 17.5}
+        - {x: -41.5, y: 15.5}
+        - {x: -41.5, y: 16.5}
+        - {x: -42.5, y: 15.5}
+        - {x: -43.5, y: 16.5}
+        - {x: -47.5, y: 16.5}
+        - {x: -49.5, y: 14.5}
+        - {x: -48.5, y: 5.5}
+        - {x: -45.5, y: 1.5}
+        - {x: -41.5, y: 0.5}
+        - {x: -42.5, y: -4.5}
+        - {x: -39.5, y: -8.5}
+        - {x: -34.5, y: -10.5}
+        - {x: -29.5, y: -10.5}
+        - {x: -22.5, y: -14.5}
+        - {x: -20.5, y: -14.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -14.5, y: -18.5}
+        - {x: -12.5, y: -18.5}
+        - {x: -11.5, y: -20.5}
+        - {x: -6.5, y: -22.5}
+        - {x: -4.5, y: -22.5}
+        - {x: -3.5, y: -24.5}
+        - {x: 1.5, y: -26.5}
+        - {x: 3.5, y: -26.5}
+        - {x: 12.5, y: -31.5}
+        - {x: 14.5, y: -32.5}
+        - {x: 14.5, y: -33.5}
+        - {x: 16.5, y: -36.5}
+        - {x: 21.5, y: -38.5}
+        - {x: 27.5, y: -38.5}
+        - {x: 28.5, y: -39.5}
+        - {x: 40.5, y: -39.5}
+        - {x: 41.5, y: -37.5}
+        - {x: 43.5, y: -37.5}
+      - - {x: -8.5, y: -1.5}
+        - {x: -8.5, y: -2.5}
+        - {x: -4.5, y: -3.5}
+        - {x: 0.5, y: -6.5}
+        - {x: 5.5, y: -8.5}
+        - {x: 7.5, y: -8.5}
+        - {x: 14.5, y: -12.5}
+        - {x: 15.5, y: -13.5}
+        - {x: 15.5, y: -12.5}
+      - - {x: -28.5, y: 9.5}
+        - {x: -28.5, y: 8.5}
+        - {x: -19.5, y: 4.5}
+        - {x: -20.5, y: 4.5}
+        - {x: -20.5, y: 5.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6bb92f8df3fa4bc50800000000000000
+      internalID: 6680156836054866870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_21
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 281
+        width: 76
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: -36}
+        - {x: 3, y: -34}
+        - {x: 7, y: -33}
+        - {x: 9, y: -36}
+        - {x: 13, y: -35}
+        - {x: 15, y: -33}
+        - {x: 15, y: -31}
+        - {x: 12, y: -30}
+        - {x: 11, y: -31}
+        - {x: 9, y: -31}
+        - {x: 9, y: -29}
+        - {x: 6, y: -28}
+        - {x: -1, y: -31}
+        - {x: -1, y: -33}
+        - {x: 1, y: -35}
+        - {x: -4, y: -35}
+        - {x: -5, y: -36}
+        - {x: -7, y: -33}
+        - {x: -9, y: -33}
+        - {x: -10, y: -34}
+        - {x: -10, y: 17}
+        - {x: -3, y: 13}
+        - {x: 0, y: 13}
+        - {x: 4, y: 17}
+        - {x: 4, y: 19}
+        - {x: 3, y: 22}
+        - {x: 0, y: 25}
+        - {x: -10, y: 30}
+        - {x: -10, y: 34}
+        - {x: -8, y: 36}
+        - {x: -8, y: 39}
+        - {x: -11, y: 42}
+        - {x: -13, y: 42}
+        - {x: -14, y: 43}
+        - {x: -21, y: 43}
+        - {x: -22, y: 42}
+        - {x: -24, y: 42}
+        - {x: -28, y: 38}
+        - {x: -34, y: 41}
+        - {x: -38, y: 38}
+        - {x: -38, y: 32}
+        - {x: -36, y: 29}
+        - {x: -30, y: 27}
+        - {x: -32, y: 26}
+        - {x: -35, y: 25}
+        - {x: -38, y: 21}
+        - {x: -38, y: 16}
+        - {x: -35, y: 13}
+        - {x: -32, y: 13}
+        - {x: -25, y: 17}
+        - {x: -25, y: -40}
+        - {x: -23, y: -43}
+        - {x: -11, y: -43}
+        - {x: -8, y: -41}
+        - {x: 1, y: -40}
+        - {x: 5, y: -37}
+      - - {x: 30, y: -34}
+        - {x: 28, y: -36}
+        - {x: 29, y: -39}
+        - {x: 32, y: -40}
+        - {x: 36, y: -39}
+        - {x: 38, y: -37}
+        - {x: 38, y: -35}
+        - {x: 35, y: -34}
+      - - {x: 22, y: -35}
+        - {x: 25, y: -34}
+        - {x: 25, y: -31}
+        - {x: 22, y: -30}
+        - {x: 20, y: -32}
+      - - {x: 25, y: -26}
+        - {x: 24, y: -29}
+        - {x: 26, y: -31}
+        - {x: 25, y: -32}
+        - {x: 27, y: -35}
+        - {x: 30, y: -34}
+        - {x: 30, y: -32}
+        - {x: 28, y: -26}
+      - - {x: 16, y: -29}
+        - {x: 19, y: -28}
+        - {x: 19, y: -25}
+        - {x: 16, y: -24}
+        - {x: 14, y: -26}
+      - - {x: 2, y: -22}
+        - {x: 2, y: -24}
+        - {x: 6, y: -27}
+        - {x: 7, y: -27}
+        - {x: 11, y: -23}
+        - {x: 11, y: -21}
+        - {x: 8, y: -20}
+      - - {x: -1, y: -22}
+        - {x: 2, y: -21}
+        - {x: 2, y: -18}
+        - {x: -1, y: -17}
+        - {x: -3, y: -19}
+      tessellationDetail: 1
+      bones: []
+      spriteID: ea7d842ea2eada260800000000000000
+      internalID: 7110530885896165294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_22
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 268
+        width: 85
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 2.5, y: -41}
+        - {x: 12.5, y: -35}
+        - {x: 18.5, y: -35}
+        - {x: 25.5, y: -31}
+        - {x: 27.5, y: -31}
+        - {x: 33.5, y: -27}
+        - {x: 35.5, y: -27}
+        - {x: 40.5, y: -23}
+        - {x: 39.5, y: -21}
+        - {x: 40.5, y: -19}
+        - {x: 36.5, y: -15}
+        - {x: 35.5, y: -15}
+        - {x: 34.5, y: -13}
+        - {x: 29.5, y: -11}
+        - {x: 26.5, y: -11}
+        - {x: 24.5, y: -14}
+        - {x: 23.5, y: -13}
+        - {x: 24.5, y: -12}
+        - {x: 23.5, y: -9}
+        - {x: 20.5, y: -8}
+        - {x: 15.5, y: -8}
+        - {x: 13.5, y: -10}
+        - {x: 11.5, y: -10}
+        - {x: 10.5, y: -11}
+        - {x: 5.5, y: -8}
+        - {x: 5.5, y: 20}
+        - {x: 7.5, y: 22}
+        - {x: 10.5, y: 23}
+        - {x: 12.5, y: 26}
+        - {x: 12.5, y: 29}
+        - {x: 2.5, y: 39}
+        - {x: 1.5, y: 39}
+        - {x: -0.5, y: 42}
+        - {x: -9.5, y: 46}
+        - {x: -17.5, y: 46}
+        - {x: -24.5, y: 42}
+        - {x: -26.5, y: 42}
+        - {x: -37.5, y: 32}
+        - {x: -39.5, y: 31}
+        - {x: -39.5, y: 26}
+        - {x: -35.5, y: 22}
+        - {x: -34.5, y: 22}
+        - {x: -33.5, y: 21}
+        - {x: -33.5, y: 19}
+        - {x: -32.5, y: 18}
+        - {x: -32.5, y: -8}
+        - {x: -34.5, y: -9}
+        - {x: -37.5, y: -10}
+        - {x: -39.5, y: -13}
+        - {x: -39.5, y: -20}
+        - {x: -42.5, y: -22}
+        - {x: -42.5, y: -33}
+        - {x: -41.5, y: -35}
+        - {x: -36.5, y: -37}
+        - {x: -34.5, y: -37}
+        - {x: -33.5, y: -39}
+        - {x: -18.5, y: -46}
+        - {x: -8.5, y: -46}
+        - {x: -7.5, y: -45}
+        - {x: -5.5, y: -45}
+        - {x: -1.5, y: -42}
+      - - {x: 33.5, y: -18}
+        - {x: 31.5, y: -18}
+        - {x: 29.5, y: -17}
+        - {x: 31.5, y: -19}
+        - {x: 34.5, y: -20}
+        - {x: 35.5, y: -20}
+        - {x: 35.5, y: -19}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 515d5c03964dbbe90800000000000000
+      internalID: -7008774846817118955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 145
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 25, y: -18.5}
+        - {x: 25, y: -14.5}
+        - {x: 7, y: -5.5}
+        - {x: 7, y: 14.5}
+        - {x: 6, y: 16.5}
+        - {x: -15, y: 26.5}
+        - {x: -23, y: 26.5}
+        - {x: -25, y: 25.5}
+        - {x: -25, y: -16.5}
+        - {x: -5, y: -26.5}
+        - {x: 6, y: -26.5}
+        - {x: 9, y: -25.5}
+        - {x: 15, y: -22.5}
+        - {x: 18, y: -22.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2ddce9d0ceb8ec210800000000000000
+      internalID: 1355174383842151890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_24
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 145
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 22, y: -13.5}
+        - {x: 22, y: -12.5}
+        - {x: 24, y: -11.5}
+        - {x: 24, y: -8.5}
+        - {x: 22, y: -6.5}
+        - {x: 21, y: -6.5}
+        - {x: 19, y: -9.5}
+        - {x: 14, y: -6.5}
+        - {x: 11, y: -6.5}
+        - {x: 10, y: -7.5}
+        - {x: 8, y: -4.5}
+        - {x: 6, y: -3.5}
+        - {x: 6, y: 18.5}
+        - {x: 5, y: 19.5}
+        - {x: 5, y: 21.5}
+        - {x: 3, y: 26.5}
+        - {x: 1, y: 27.5}
+        - {x: -12, y: 27.5}
+        - {x: -14, y: 26.5}
+        - {x: -17, y: 19.5}
+        - {x: -17, y: -4.5}
+        - {x: -18, y: -4.5}
+        - {x: -21, y: -7.5}
+        - {x: -21, y: -9.5}
+        - {x: -23, y: -10.5}
+        - {x: -24, y: -11.5}
+        - {x: -24, y: -20.5}
+        - {x: -10, y: -27.5}
+        - {x: 0, y: -27.5}
+        - {x: 16, y: -19.5}
+        - {x: 17, y: -17.5}
+        - {x: 20, y: -16.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 1ae2af53965042c10800000000000000
+      internalID: 2027751681658859169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 141
+        width: 84
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: -47.5}
+        - {x: 10, y: -44.5}
+        - {x: 10, y: -43.5}
+        - {x: 12, y: -40.5}
+        - {x: 15, y: -40.5}
+        - {x: 25, y: -35.5}
+        - {x: 28, y: -35.5}
+        - {x: 35, y: -31.5}
+        - {x: 38, y: -31.5}
+        - {x: 41, y: -28.5}
+        - {x: 41, y: -27.5}
+        - {x: 42, y: -26.5}
+        - {x: 42, y: -21.5}
+        - {x: 41, y: -18.5}
+        - {x: 30, y: -18.5}
+        - {x: 29, y: -17.5}
+        - {x: 16, y: -17.5}
+        - {x: 15, y: -18.5}
+        - {x: 11, y: -18.5}
+        - {x: 10, y: -19.5}
+        - {x: 8, y: -19.5}
+        - {x: 7, y: -20.5}
+        - {x: 3, y: -21.5}
+        - {x: 3, y: -13.5}
+        - {x: 2, y: -12.5}
+        - {x: 2, y: 10.5}
+        - {x: 1, y: 11.5}
+        - {x: 1, y: 39.5}
+        - {x: 0, y: 40.5}
+        - {x: 0, y: 45.5}
+        - {x: -3, y: 50.5}
+        - {x: -6, y: 50.5}
+        - {x: -12, y: 44.5}
+        - {x: -16, y: 44.5}
+        - {x: -17, y: 45.5}
+        - {x: -22, y: 45.5}
+        - {x: -31, y: 36.5}
+        - {x: -32, y: 30.5}
+        - {x: -33, y: 29.5}
+        - {x: -33, y: 25.5}
+        - {x: -34, y: 24.5}
+        - {x: -34, y: 12.5}
+        - {x: -35, y: 11.5}
+        - {x: -35, y: -3.5}
+        - {x: -36, y: -4.5}
+        - {x: -36, y: -19.5}
+        - {x: -39, y: -23.5}
+        - {x: -39, y: -24.5}
+        - {x: -41, y: -26.5}
+        - {x: -41, y: -27.5}
+        - {x: -42, y: -28.5}
+        - {x: -42, y: -42.5}
+        - {x: -40, y: -44.5}
+        - {x: -40, y: -45.5}
+        - {x: -37, y: -48.5}
+        - {x: -33, y: -49.5}
+        - {x: -32, y: -50.5}
+        - {x: -3, y: -50.5}
+        - {x: 2, y: -49.5}
+        - {x: 5, y: -47.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8fca13ac69aa559c0800000000000000
+      internalID: -3939054734451561224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 141
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 19, y: -30}
+        - {x: 21, y: -26}
+        - {x: 22, y: -26}
+        - {x: 27, y: -24}
+        - {x: 34, y: -17}
+        - {x: 34, y: -9}
+        - {x: 30, y: -8}
+        - {x: 29, y: -7}
+        - {x: 26, y: -7}
+        - {x: 25, y: -6}
+        - {x: 18, y: -6}
+        - {x: 17, y: -7}
+        - {x: 12, y: -7}
+        - {x: 11, y: -6}
+        - {x: 11, y: 17}
+        - {x: 10, y: 18}
+        - {x: 10, y: 26}
+        - {x: 9, y: 27}
+        - {x: 9, y: 30}
+        - {x: 8, y: 31}
+        - {x: 8, y: 34}
+        - {x: 7, y: 36}
+        - {x: -4, y: 36}
+        - {x: -15, y: 31}
+        - {x: -22, y: 23}
+        - {x: -22, y: 22}
+        - {x: -25, y: 19}
+        - {x: -25, y: 16}
+        - {x: -26, y: 15}
+        - {x: -26, y: 13}
+        - {x: -28, y: 9}
+        - {x: -28, y: -5}
+        - {x: -34, y: -13}
+        - {x: -34, y: -27}
+        - {x: -33, y: -29}
+        - {x: -32, y: -32}
+        - {x: -29, y: -34}
+        - {x: -26, y: -35}
+        - {x: -24, y: -35}
+        - {x: -22, y: -36}
+        - {x: 4, y: -36}
+        - {x: 12, y: -34}
+        - {x: 17, y: -32}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 877f6312971527f50800000000000000
+      internalID: 6877649161638311800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_27
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 142
+        width: 78
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -41}
+        - {x: 19, y: -40}
+        - {x: 24, y: -37}
+        - {x: 25, y: -35}
+        - {x: 28, y: -34}
+        - {x: 33, y: -31}
+        - {x: 35, y: -31}
+        - {x: 39, y: -27}
+        - {x: 38, y: -24}
+        - {x: 33, y: -22}
+        - {x: 28, y: -22}
+        - {x: 27, y: -23}
+        - {x: 24, y: -23}
+        - {x: 21, y: -25}
+        - {x: 18, y: -25}
+        - {x: 17, y: -26}
+        - {x: 14, y: -26}
+        - {x: 13, y: -27}
+        - {x: 9, y: -27}
+        - {x: 5, y: -25}
+        - {x: 5, y: -23}
+        - {x: 3, y: -21}
+        - {x: 3, y: -9}
+        - {x: 5, y: -7}
+        - {x: 5, y: -3}
+        - {x: -4, y: 2}
+        - {x: -4, y: 10}
+        - {x: -5, y: 11}
+        - {x: -5, y: 31}
+        - {x: -6, y: 32}
+        - {x: -6, y: 47}
+        - {x: -13, y: 54}
+        - {x: -18, y: 54}
+        - {x: -24, y: 49}
+        - {x: -25, y: 46}
+        - {x: -25, y: 26}
+        - {x: -26, y: 25}
+        - {x: -26, y: 7}
+        - {x: -27, y: 6}
+        - {x: -27, y: 1}
+        - {x: -28, y: 1}
+        - {x: -36, y: -3}
+        - {x: -36, y: -7}
+        - {x: -34, y: -9}
+        - {x: -34, y: -21}
+        - {x: -36, y: -23}
+        - {x: -36, y: -27}
+        - {x: -39, y: -29}
+        - {x: -39, y: -44}
+        - {x: -20, y: -54}
+        - {x: -9, y: -54}
+        - {x: 14, y: -43}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 8465c37e1c1084a20800000000000000
+      internalID: 3046687080235947592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_28
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 142
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27, y: -20}
+        - {x: 27, y: -17}
+        - {x: 25, y: -16}
+        - {x: 27, y: -14}
+        - {x: 27, y: -12}
+        - {x: 15, y: -6}
+        - {x: 13, y: -6}
+        - {x: 12, y: -7}
+        - {x: 11, y: -6}
+        - {x: 11, y: 10}
+        - {x: 7, y: 14}
+        - {x: 6, y: 14}
+        - {x: 5, y: 15}
+        - {x: 5, y: 20}
+        - {x: 4, y: 21}
+        - {x: 4, y: 24}
+        - {x: 2, y: 27}
+        - {x: -5, y: 30}
+        - {x: -13, y: 30}
+        - {x: -16, y: 29}
+        - {x: -18, y: 26}
+        - {x: -18, y: 23}
+        - {x: -19, y: 23}
+        - {x: -22, y: 22}
+        - {x: -24, y: 19}
+        - {x: -24, y: -6}
+        - {x: -27, y: -7}
+        - {x: -27, y: -18}
+        - {x: -2, y: -30}
+        - {x: 9, y: -30}
+        - {x: 14, y: -28}
+        - {x: 16, y: -25}
+        - {x: 20, y: -24}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 18f041df0c1882f80800000000000000
+      internalID: -8131106461337776255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_29
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 140
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 27, y: -17.5}
+        - {x: 27, y: -13.5}
+        - {x: 25, y: -10.5}
+        - {x: 11, y: -3.5}
+        - {x: 11, y: 12.5}
+        - {x: 9, y: 17.5}
+        - {x: 2, y: 24.5}
+        - {x: -5, y: 27.5}
+        - {x: -18, y: 27.5}
+        - {x: -21, y: 26.5}
+        - {x: -23, y: 24.5}
+        - {x: -24, y: 21.5}
+        - {x: -24, y: -3.5}
+        - {x: -27, y: -5.5}
+        - {x: -27, y: -14.5}
+        - {x: -2, y: -27.5}
+        - {x: 9, y: -27.5}
+        - {x: 14, y: -25.5}
+        - {x: 16, y: -22.5}
+        - {x: 18, y: -22.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 66044192e49c61d80800000000000000
+      internalID: -8280209527340253082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_30
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 142
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18.5, y: -26.5}
+        - {x: 20.5, y: -20.5}
+        - {x: 14.5, y: -13.5}
+        - {x: 13.5, y: -13.5}
+        - {x: 10.5, y: -10.5}
+        - {x: 9.5, y: -10.5}
+        - {x: 8.5, y: -11.5}
+        - {x: 7.5, y: -10.5}
+        - {x: 6.5, y: -8.5}
+        - {x: -1.5, y: -4.5}
+        - {x: -2.5, y: -3.5}
+        - {x: -2.5, y: 1.5}
+        - {x: -1.5, y: 2.5}
+        - {x: 0.5, y: 1.5}
+        - {x: 2.5, y: 1.5}
+        - {x: 8.5, y: 5.5}
+        - {x: 8.5, y: 15.5}
+        - {x: 5.5, y: 18.5}
+        - {x: 4.5, y: 18.5}
+        - {x: 2.5, y: 20.5}
+        - {x: 2.5, y: 21.5}
+        - {x: 0.5, y: 24.5}
+        - {x: -2.5, y: 29.5}
+        - {x: -1.5, y: 30.5}
+        - {x: -1.5, y: 33.5}
+        - {x: -3.5, y: 36.5}
+        - {x: -6.5, y: 37.5}
+        - {x: -15.5, y: 37.5}
+        - {x: -18.5, y: 34.5}
+        - {x: -18.5, y: 31.5}
+        - {x: -19.5, y: 30.5}
+        - {x: -20.5, y: 31.5}
+        - {x: -23.5, y: 31.5}
+        - {x: -28.5, y: 27.5}
+        - {x: -28.5, y: 17.5}
+        - {x: -27.5, y: 15.5}
+        - {x: -23.5, y: 13.5}
+        - {x: -22.5, y: 10.5}
+        - {x: -20.5, y: 8.5}
+        - {x: -17.5, y: 3.5}
+        - {x: -18.5, y: 2.5}
+        - {x: -18.5, y: -4.5}
+        - {x: -20.5, y: -5.5}
+        - {x: -23.5, y: -6.5}
+        - {x: -25.5, y: -9.5}
+        - {x: -25.5, y: -12.5}
+        - {x: -32.5, y: -19.5}
+        - {x: -32.5, y: -28.5}
+        - {x: -14.5, y: -37.5}
+        - {x: -4.5, y: -37.5}
+        - {x: 12.5, y: -29.5}
+        - {x: 13.5, y: -27.5}
+        - {x: 16.5, y: -27.5}
+      - - {x: 26.5, y: -24.5}
+        - {x: 29.5, y: -22.5}
+        - {x: 27.5, y: -17.5}
+        - {x: 24.5, y: -17.5}
+        - {x: 23.5, y: -20.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: d0d4c26b6d5f57d20800000000000000
+      internalID: 3275794606510066957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 13
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 23, y: -27.5}
+        - {x: 26, y: -27.5}
+        - {x: 28, y: -26.5}
+        - {x: 28, y: -24.5}
+        - {x: 30, y: -26.5}
+        - {x: 31, y: -26.5}
+        - {x: 35, y: -23.5}
+        - {x: 35, y: -22.5}
+        - {x: 31, y: -19.5}
+        - {x: 32, y: -18.5}
+        - {x: 32, y: -16.5}
+        - {x: 30, y: -14.5}
+        - {x: 27, y: -15.5}
+        - {x: 27, y: -18.5}
+        - {x: 25, y: -16.5}
+        - {x: 24, y: -14.5}
+        - {x: 20, y: -14.5}
+        - {x: 19, y: -13.5}
+        - {x: 15, y: -10.5}
+        - {x: 13, y: -10.5}
+        - {x: 12, y: -11.5}
+        - {x: 10, y: -10.5}
+        - {x: 10, y: -6.5}
+        - {x: 7, y: -2.5}
+        - {x: 7, y: -1.5}
+        - {x: 5, y: 1.5}
+        - {x: 0, y: 3.5}
+        - {x: -2, y: 4.5}
+        - {x: -2, y: 13.5}
+        - {x: 0, y: 12.5}
+        - {x: 6, y: 16.5}
+        - {x: 6, y: 25.5}
+        - {x: 4, y: 27.5}
+        - {x: 0, y: 28.5}
+        - {x: -2, y: 29.5}
+        - {x: -1, y: 38.5}
+        - {x: -6, y: 41.5}
+        - {x: -13, y: 41.5}
+        - {x: -16, y: 39.5}
+        - {x: -17, y: 37.5}
+        - {x: -18, y: 37.5}
+        - {x: -24, y: 33.5}
+        - {x: -24, y: 25.5}
+        - {x: -21, y: 22.5}
+        - {x: -19, y: 22.5}
+        - {x: -16, y: 20.5}
+        - {x: -16, y: 3.5}
+        - {x: -17, y: 3.5}
+        - {x: -22, y: 1.5}
+        - {x: -25, y: -1.5}
+        - {x: -28, y: -9.5}
+        - {x: -31, y: -13.5}
+        - {x: -31, y: -15.5}
+        - {x: -34, y: -18.5}
+        - {x: -35, y: -18.5}
+        - {x: -35, y: -31.5}
+        - {x: -14, y: -41.5}
+        - {x: -2, y: -41.5}
+        - {x: 19, y: -31.5}
+        - {x: 22, y: -28.5}
+        - {x: 22, y: -26.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: e40dcc8666cef08f0800000000000000
+      internalID: -571978703063691186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_32
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 8.5, y: -33}
+        - {x: 11.5, y: -32}
+        - {x: 12.5, y: -31}
+        - {x: 18.5, y: -30}
+        - {x: 19.5, y: -31}
+        - {x: 22.5, y: -30}
+        - {x: 22.5, y: -28}
+        - {x: 19.5, y: -24}
+        - {x: 23.5, y: -22}
+        - {x: 26.5, y: -23}
+        - {x: 23.5, y: -25}
+        - {x: 25.5, y: -29}
+        - {x: 24.5, y: -30}
+        - {x: 25.5, y: -33}
+        - {x: 28.5, y: -33}
+        - {x: 33.5, y: -30}
+        - {x: 32.5, y: -26}
+        - {x: 30.5, y: -25}
+        - {x: 31.5, y: -23}
+        - {x: 28.5, y: -19}
+        - {x: 26.5, y: -19}
+        - {x: 24.5, y: -17}
+        - {x: 23.5, y: -17}
+        - {x: 20.5, y: -19}
+        - {x: 16.5, y: -19}
+        - {x: 14.5, y: -17}
+        - {x: 12.5, y: -17}
+        - {x: 11.5, y: -20}
+        - {x: 13.5, y: -22}
+        - {x: 11.5, y: -22}
+        - {x: 9.5, y: -21}
+        - {x: 10.5, y: -18}
+        - {x: 7.5, y: -16}
+        - {x: 6.5, y: -17}
+        - {x: 4.5, y: -17}
+        - {x: 1.5, y: -20}
+        - {x: 2.5, y: -23}
+        - {x: 5.5, y: -23}
+        - {x: 4.5, y: -24}
+        - {x: 2.5, y: -24}
+        - {x: -3.5, y: -18}
+        - {x: -3.5, y: -14}
+        - {x: -4.5, y: -12}
+        - {x: -6.5, y: -11}
+        - {x: -6.5, y: -1}
+        - {x: -7.5, y: 0}
+        - {x: -7.5, y: 15}
+        - {x: -3.5, y: 15}
+        - {x: 0.5, y: 18}
+        - {x: 0.5, y: 28}
+        - {x: -1.5, y: 30}
+        - {x: -5.5, y: 30}
+        - {x: -8.5, y: 33}
+        - {x: -8.5, y: 37}
+        - {x: -7.5, y: 38}
+        - {x: -7.5, y: 41}
+        - {x: -9.5, y: 44}
+        - {x: -12.5, y: 45}
+        - {x: -20.5, y: 45}
+        - {x: -23.5, y: 43}
+        - {x: -24.5, y: 41}
+        - {x: -27.5, y: 40}
+        - {x: -30.5, y: 37}
+        - {x: -30.5, y: 27}
+        - {x: -28.5, y: 25}
+        - {x: -26.5, y: 25}
+        - {x: -25.5, y: 26}
+        - {x: -21.5, y: 22}
+        - {x: -21.5, y: 18}
+        - {x: -23.5, y: 16}
+        - {x: -23.5, y: 15}
+        - {x: -22.5, y: 14}
+        - {x: -22.5, y: 7}
+        - {x: -23.5, y: 6}
+        - {x: -23.5, y: -8}
+        - {x: -27.5, y: -10}
+        - {x: -27.5, y: -15}
+        - {x: -28.5, y: -16}
+        - {x: -29.5, y: -16}
+        - {x: -32.5, y: -19}
+        - {x: -32.5, y: -26}
+        - {x: -33.5, y: -26}
+        - {x: -34.5, y: -27}
+        - {x: -34.5, y: -34}
+        - {x: -13.5, y: -45}
+        - {x: -3.5, y: -45}
+        - {x: 6.5, y: -40}
+        - {x: 8.5, y: -35}
+        - {x: 7.5, y: -34}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 36f06eaad5ba88e40800000000000000
+      internalID: 5658961350578540387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 20
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: -18.5}
+        - {x: 11, y: -16.5}
+        - {x: 13, y: -18.5}
+        - {x: 14, y: -18.5}
+        - {x: 16, y: -16.5}
+        - {x: 15, y: -13.5}
+        - {x: 16, y: -12.5}
+        - {x: 16, y: -10.5}
+        - {x: 15, y: -8.5}
+        - {x: 11, y: -7.5}
+        - {x: 7, y: -9.5}
+        - {x: 6, y: -8.5}
+        - {x: 4, y: -8.5}
+        - {x: -1, y: -5.5}
+        - {x: -1, y: -2.5}
+        - {x: 0, y: -3.5}
+        - {x: 5, y: -3.5}
+        - {x: 7, y: -1.5}
+        - {x: 7, y: 4.5}
+        - {x: 4, y: 7.5}
+        - {x: 2, y: 7.5}
+        - {x: -1, y: 10.5}
+        - {x: -1, y: 18.5}
+        - {x: -4, y: 21.5}
+        - {x: -11, y: 21.5}
+        - {x: -12, y: 20.5}
+        - {x: -12, y: 15.5}
+        - {x: -14, y: 16.5}
+        - {x: -18, y: 16.5}
+        - {x: -19, y: 15.5}
+        - {x: -19, y: 6.5}
+        - {x: -18, y: 5.5}
+        - {x: -16, y: 5.5}
+        - {x: -14, y: 4.5}
+        - {x: -14, y: 3.5}
+        - {x: -12, y: 1.5}
+        - {x: -12, y: -7.5}
+        - {x: -16, y: -9.5}
+        - {x: -18, y: -12.5}
+        - {x: -18, y: -14.5}
+        - {x: -17, y: -16.5}
+        - {x: -6, y: -21.5}
+        - {x: 3, y: -21.5}
+        - {x: 4, y: -20.5}
+        - {x: 4, y: -17.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c2e7ed3d8d3982280800000000000000
+      internalID: -9067835290233700820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 9
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 37, y: -4}
+        - {x: 36, y: -3}
+        - {x: 32, y: -2}
+        - {x: 31, y: 0}
+        - {x: 26, y: 2}
+        - {x: 24, y: 3}
+        - {x: 24, y: 17}
+        - {x: 23, y: 20}
+        - {x: 4, y: 29}
+        - {x: -4, y: 29}
+        - {x: -13, y: 24}
+        - {x: -15, y: 24}
+        - {x: -36, y: 14}
+        - {x: -37, y: 12}
+        - {x: -37, y: -20}
+        - {x: -18, y: -29}
+        - {x: -8, y: -29}
+        - {x: -7, y: -28}
+        - {x: -1, y: -27}
+        - {x: 37, y: -8}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 6b7b42c7ec78a3510800000000000000
+      internalID: 1529684344361498550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_35
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 9
+        width: 74
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 37, y: -6.5}
+        - {x: 34, y: -4.5}
+        - {x: 28, y: -2.5}
+        - {x: 33, y: 0.5}
+        - {x: 32, y: 3.5}
+        - {x: 27, y: 3.5}
+        - {x: 26, y: 4.5}
+        - {x: 25, y: 14.5}
+        - {x: 24, y: 15.5}
+        - {x: 24, y: 22.5}
+        - {x: 21, y: 25.5}
+        - {x: 18, y: 25.5}
+        - {x: 17, y: 26.5}
+        - {x: 11, y: 26.5}
+        - {x: 10, y: 27.5}
+        - {x: 4, y: 27.5}
+        - {x: 3, y: 28.5}
+        - {x: -1, y: 28.5}
+        - {x: -2, y: 29.5}
+        - {x: -8, y: 29.5}
+        - {x: -9, y: 30.5}
+        - {x: -14, y: 30.5}
+        - {x: -15, y: 31.5}
+        - {x: -29, y: 31.5}
+        - {x: -30, y: 30.5}
+        - {x: -30, y: 26.5}
+        - {x: -29, y: 25.5}
+        - {x: -29, y: 18.5}
+        - {x: -28, y: 17.5}
+        - {x: -28, y: 14.5}
+        - {x: -37, y: 9.5}
+        - {x: -37, y: -21.5}
+        - {x: -36, y: -21.5}
+        - {x: -35, y: -23.5}
+        - {x: -18, y: -31.5}
+        - {x: -8, y: -31.5}
+        - {x: -7, y: -30.5}
+        - {x: -1, y: -29.5}
+        - {x: 37, y: -10.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 975661749b747dc90800000000000000
+      internalID: -7145163422712830599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_36
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 6
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 18, y: -27.5}
+        - {x: 20, y: -27.5}
+        - {x: 35, y: -20.5}
+        - {x: 40, y: -15.5}
+        - {x: 39, y: -12.5}
+        - {x: 33, y: -11.5}
+        - {x: 31, y: -9.5}
+        - {x: 27, y: -8.5}
+        - {x: 25, y: -6.5}
+        - {x: 25, y: 10.5}
+        - {x: 22, y: 14.5}
+        - {x: 17, y: 16.5}
+        - {x: 15, y: 16.5}
+        - {x: 8, y: 20.5}
+        - {x: 6, y: 22.5}
+        - {x: -9, y: 29.5}
+        - {x: -11, y: 29.5}
+        - {x: -18, y: 33.5}
+        - {x: -21, y: 35.5}
+        - {x: -35, y: 35.5}
+        - {x: -40, y: 33.5}
+        - {x: -49, y: 24.5}
+        - {x: -50, y: 21.5}
+        - {x: -51, y: 19.5}
+        - {x: -51, y: -15.5}
+        - {x: -48, y: -17.5}
+        - {x: -46, y: -17.5}
+        - {x: -13, y: -34.5}
+        - {x: -11, y: -35.5}
+        - {x: -1, y: -35.5}
+        - {x: 0, y: -34.5}
+        - {x: 6, y: -33.5}
+        - {x: 11, y: -31.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2ec5b9ddc5b79d7a0800000000000000
+      internalID: -6351910160644219678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cemetery_37
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 6
+        width: 100
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -38.5}
+        - {x: 20, y: -37.5}
+        - {x: 22, y: -35.5}
+        - {x: 26, y: -34.5}
+        - {x: 30, y: -31.5}
+        - {x: 33, y: -29.5}
+        - {x: 36, y: -30.5}
+        - {x: 38, y: -30.5}
+        - {x: 50, y: -24.5}
+        - {x: 50, y: -19.5}
+        - {x: 49, y: -18.5}
+        - {x: 47, y: -18.5}
+        - {x: 46, y: -19.5}
+        - {x: 45, y: -16.5}
+        - {x: 36, y: -12.5}
+        - {x: 33, y: -10.5}
+        - {x: 29, y: -9.5}
+        - {x: 26, y: -7.5}
+        - {x: 26, y: -4.5}
+        - {x: 28, y: -2.5}
+        - {x: 28, y: -0.5}
+        - {x: 30, y: 3.5}
+        - {x: 30, y: 13.5}
+        - {x: 29, y: 14.5}
+        - {x: 28, y: 18.5}
+        - {x: 23, y: 24.5}
+        - {x: 18, y: 26.5}
+        - {x: 16, y: 26.5}
+        - {x: 5, y: 32.5}
+        - {x: 2, y: 34.5}
+        - {x: 0, y: 34.5}
+        - {x: -4, y: 37.5}
+        - {x: -6, y: 37.5}
+        - {x: -17, y: 43.5}
+        - {x: -20, y: 45.5}
+        - {x: -33, y: 45.5}
+        - {x: -38, y: 40.5}
+        - {x: -38, y: 38.5}
+        - {x: -31, y: 30.5}
+        - {x: -31, y: 29.5}
+        - {x: -27, y: 25.5}
+        - {x: -27, y: 24.5}
+        - {x: -23, y: 19.5}
+        - {x: -22, y: 17.5}
+        - {x: -30, y: 13.5}
+        - {x: -32, y: 13.5}
+        - {x: -39, y: 10.5}
+        - {x: -41, y: 8.5}
+        - {x: -50, y: 3.5}
+        - {x: -50, y: -25.5}
+        - {x: -48, y: -27.5}
+        - {x: -46, y: -27.5}
+        - {x: -33, y: -34.5}
+        - {x: -31, y: -34.5}
+        - {x: -29, y: -36.5}
+        - {x: -25, y: -37.5}
+        - {x: -23, y: -39.5}
+        - {x: -19, y: -40.5}
+        - {x: -17, y: -42.5}
+        - {x: -13, y: -43.5}
+        - {x: -11, y: -45.5}
+        - {x: 1, y: -45.5}
+        - {x: 2, y: -44.5}
+        - {x: 8, y: -43.5}
+        - {x: 12, y: -40.5}
+      tessellationDetail: 1
+      bones: []
+      spriteID: befabef73493e9fe0800000000000000
+      internalID: -1180443090252746773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
